@@ -1,1 +1,32 @@
-KiwiComics
+h1. KiwiComics – Manga Reader for the iPhone
+
+h2. Information
+
+KiwiComics is a manga reader for the iPhone. It features:
+* Precaching
+* Downloading of latest chapter for offline viewing
+* Favorites
+* Browsing OneMangas entire catalog
+
+More information can be found on the "KiwiComics blog":http://kiwicomics.wordpress.com/ or if you prefer to see a "video of the app":http://vimeo.com/8529729 or "some screenshots":http://kiwicomics.wordpress.com/screenshots/ .
+
+h2. Why you should contribute
+
+It's a fun experience and the perfect choice for learning objective-c and the iPhone API.
+It's semi-famous with over 10.000 "downloads a month":http://apt.modmyrepo.com/index.php?action=packagestats&package=KiwiComics .
+You have total control as the license gives you permission to fork your own code if you are not happy with my decisions.
+
+h2. How to start programming for KiwiComics
+
+1. Install xcode and the iPhone API (3.0 or above) and see to it that it can "program for jailbroken iphones.":http://www.alexwhittemore.com/?p=270
+2. Install git and create a github account to "fork KiwiComics":http://help.github.com/forking/ the original version. 
+3. Code away!
+4. Send the changes back to me or "release it yourself":http://www.saurik.com/id/7
+
+h2. License
+
+As long as you don’t make money on my code and also link to my webpage in your app, you are free to fork my code to make your own reader. My hope is that there will be more free iphone manga readers out there because of this.
+
+!http://i.creativecommons.org/l/by-nc-sa/3.0/us/88x31.png!:http://creativecommons.org/licenses/by-nc-sa/3.0/us/
+Creative Commons License
+KiwiComics by Digital Kiwi is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 United States License.
