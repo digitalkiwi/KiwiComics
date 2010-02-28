@@ -1,0 +1,3647 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* KiwiComicsAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {880, 463}}";
+			sepNavSelRange = "{45, 0}";
+			sepNavVisRange = "{0, 859}";
+			sepNavWindowFrame = "{{98, 114}, {967, 638}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* KiwiComicsAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2371, 2119}}";
+			sepNavSelRange = "{3704, 0}";
+			sepNavVisRange = "{2805, 1654}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* KiwiComics */ = {
+		activeExec = 0;
+		executables = (
+			6586AEDD10E510A90088DC65 /* KiwiComics */,
+		);
+	};
+	28A0AB4B0D9B1048005BE974 /* KiwiComics_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {795, 331}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 223}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 6586AEDD10E510A90088DC65 /* KiwiComics */;
+		activeSDKPreference = iphoneos3.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* KiwiComics */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* KiwiComics */,
+		);
+		breakpoints = (
+			6586AF4B10E53BAA0088DC65 /* MangaSeriesModel.m:38 */,
+			6586AFA010E544860088DC65 /* SearchController.m:154 */,
+			6586AFA210E544880088DC65 /* SearchController.m:154 */,
+			6586B03110E5663A0088DC65 /* SearchController.m:148 */,
+			6586B03310E5663D0088DC65 /* SearchController.m:158 */,
+			6586B03B10E566AC0088DC65 /* SearchController.m:147 */,
+			6586B04010E5672B0088DC65 /* SearchController.m:142 */,
+			6586B04210E5672E0088DC65 /* SearchController.m:145 */,
+			6586B04410E567310088DC65 /* SearchController.m:150 */,
+			6586B04D10E5677A0088DC65 /* SearchController.m:143 */,
+			6586B04F10E5677C0088DC65 /* SearchController.m:144 */,
+			6586B08810E5729C0088DC65 /* SearchController.m:174 */,
+			6586B08A10E572A70088DC65 /* SearchController.m:178 */,
+			6586B08C10E572A80088DC65 /* SearchController.m:175 */,
+			6586B09010E572BC0088DC65 /* SearchController.m:155 */,
+			65630B7610E6C41C00E66C76 /* MangaSeriesModel.m:73 */,
+			65630B7810E6C42000E66C76 /* MangaSeriesModel.m:119 */,
+			65630B7A10E6C42300E66C76 /* MangaSeriesModel.m:103 */,
+			65630C1010E6CE2100E66C76 /* MangaSeriesModel.m:103 */,
+			65630C3E10E6D25600E66C76 /* MangaSeriesModel.m:103 */,
+			65630C5510E6D3DD00E66C76 /* MangaSeriesModel.m:126 */,
+			65630C7A10E6E84B00E66C76 /* SearchController.m:175 */,
+			65630C7C10E6E84F00E66C76 /* SearchController.m:178 */,
+			65630C7E10E6E85100E66C76 /* SearchController.m:175 */,
+			65630C8010E6E85100E66C76 /* SearchController.m:175 */,
+			65630CAD10E6EFF100E66C76 /* MangaSeriesController.m:232 */,
+			65630CAF10E6EFF300E66C76 /* MangaSeriesController.m:212 */,
+			6501587B10E78955009036E8 /* MangaSeriesController.m:143 */,
+			6501590410E7989D009036E8 /* MangaSeriesModel.m:96 */,
+			6501594410E79B17009036E8 /* MangaSeriesModel.m:104 */,
+			6559704D10E96D0900C4A19E /* MangaSeriesModel.m:54 */,
+			6559705710E96D2500C4A19E /* MangaSeriesModel.m:72 */,
+			6559705910E96D2700C4A19E /* MangaSeriesModel.m:70 */,
+			65B4D8AA10EA12E7003AD0C5 /* ReadComicController.m:169 */,
+			65B4D8AC10EA12E9003AD0C5 /* ReadComicController.m:227 */,
+			65B4D8B910EA13BA003AD0C5 /* MangaPageModel.m:46 */,
+			65B4D8BB10EA13BB003AD0C5 /* MangaPageModel.m:47 */,
+			65B4D8CA10EA1407003AD0C5 /* MangaPageModel.m:29 */,
+			65B4D8D310EA1456003AD0C5 /* MangaPageModel.m:32 */,
+			65B4D8D510EA1457003AD0C5 /* MangaPageModel.m:33 */,
+			65B4D8DD10EA15DF003AD0C5 /* MangaSeriesModel.m:53 */,
+			65B4D91E10EA192C003AD0C5 /* MangaChapterModel.m:49 */,
+			65B4D92610EA194F003AD0C5 /* MangaChapterModel.m:28 */,
+			65B4D92810EA1950003AD0C5 /* MangaChapterModel.m:29 */,
+			65B4D93510EA19A0003AD0C5 /* ReadComicController.m:161 */,
+			65B4D96E10EA1F74003AD0C5 /* MangaChapterModel.m:37 */,
+			65B4D97510EA1F95003AD0C5 /* MangaChapterModel.m:36 */,
+			65B4D98210EA204A003AD0C5 /* MangaChapterModel.m:58 */,
+			65B4D99710EA22B4003AD0C5 /* MangaChapterModel.m:44 */,
+			65B4D99F10EA23C2003AD0C5 /* MangaSeriesModel.m:114 */,
+			65B4D9DB10EA2723003AD0C5 /* ReadComicController.m:228 */,
+			65B4DA3310EA327F003AD0C5 /* ReadComicController.m:240 */,
+			65B4DA6B10EA3A30003AD0C5 /* ReadComicController.m:238 */,
+			65B4DBA310EA6A6E003AD0C5 /* ReadComicController.m:227 */,
+			65B4DBA510EA6A6E003AD0C5 /* ReadComicController.m:227 */,
+			65B4DC1C10EA7960003AD0C5 /* ReadComicController.m:100 */,
+			65B4DCD510EA9933003AD0C5 /* MangaSeriesController.m:161 */,
+			65B4DD1410EA9F4F003AD0C5 /* ReadComicController.m:139 */,
+			65D7A01D10EB831100F8D973 /* ComicListItem.m:39 */,
+			65D7A03C10EB871400F8D973 /* MangaSeriesController.m:29 */,
+			65D7A06C10EB8BF200F8D973 /* ComicListItem.m:86 */,
+			65D7A06E10EB8BFE00F8D973 /* ComicListItem.m:40 */,
+			65D7A07010EB8BFF00F8D973 /* ComicListItem.m:41 */,
+			65D7A07210EB8C0100F8D973 /* ComicListItem.m:42 */,
+			65D7A07410EB8C0400F8D973 /* ComicListItem.m:43 */,
+			65D7A07610EB8C0700F8D973 /* ComicListItem.m:50 */,
+			65D7A27210EBB9D200F8D973 /* ComicChapter.m:26 */,
+			65D7A27410EBB9D300F8D973 /* ComicChapter.m:23 */,
+			65D7A28810EBBA5A00F8D973 /* ComicChapter.m:29 */,
+			65D7A29D10EBBB0B00F8D973 /* ComicSeries.m:105 */,
+			65D7A2B010EBBB7E00F8D973 /* ComicChapter.m:54 */,
+			65D7A2E610EBC6A100F8D973 /* ComicChapter.m:57 */,
+			65D7A32110EBC92C00F8D973 /* ReadComicController.m:152 */,
+			65D7A32310EBC93300F8D973 /* ReadComicController.m:172 */,
+			65D7A33210EBC99400F8D973 /* ReadComicController.m:264 */,
+			65D7A39F10EBCF2600F8D973 /* ComicChapter.m:123 */,
+			65D7A3D210EBD00E00F8D973 /* ReadComicController.m:261 */,
+			65D7A42B10EBD65400F8D973 /* ComicListItem.m:91 */,
+			65D7A50B10EBE69800F8D973 /* ComicListItem.m:52 */,
+			65D7A50D10EBE69D00F8D973 /* ComicListItem.m:15 */,
+			65D7A50F10EBE6A000F8D973 /* ComicListItem.m:60 */,
+			65D7A51110EBE6A200F8D973 /* ComicListItem.m:91 */,
+			65D7A51310EBE6A500F8D973 /* ComicListItem.m:91 */,
+			65D7A51510EBE6A700F8D973 /* ComicListItem.m:91 */,
+			65D7A5E610EBFD2A00F8D973 /* ComicSeries.m:147 */,
+			65D7A60C10EC006F00F8D973 /* ComicSeries.m:122 */,
+			65D7A66D10EC136C00F8D973 /* FavoritesController.m:80 */,
+			65D7A66F10EC136D00F8D973 /* FavoritesController.m:82 */,
+			65D7A67110EC137100F8D973 /* FavoritesController.m:64 */,
+			65D7A67310EC137600F8D973 /* FavoritesController.m:48 */,
+			65D7A6CD10EC189900F8D973 /* FavoritesController.m:88 */,
+			65D7A6CF10EC189A00F8D973 /* FavoritesController.m:88 */,
+			65D7A6D710EC18A400F8D973 /* FavoritesController.m:188 */,
+			65D7A6D910EC18A700F8D973 /* FavoritesController.m:185 */,
+			65D7A6DB10EC18A800F8D973 /* FavoritesController.m:181 */,
+			65D7A74410EC223700F8D973 /* FavoritesController.m:204 */,
+			65C8DFDF10ECAA83003F487A /* ComicPage.m:68 */,
+			65C8DFE110ECAA86003F487A /* ComicPage.m:26 */,
+			65C8E01410ECB057003F487A /* ComicSeries.m:237 */,
+			65C8E01610ECB05B003F487A /* ComicSeries.m:242 */,
+			6597B47810ED1B94002B7FEA /* ComicSeries.m:139 */,
+			6597B49710ED1E7E002B7FEA /* ComicSeries.m:144 */,
+			6597B55410ED33A4002B7FEA /* ReadComicController.m:174 */,
+			6597B55610ED33B1002B7FEA /* ReadComicController.m:155 */,
+			6597B55D10ED33D0002B7FEA /* ReadComicController.m:154 */,
+			6597B55F10ED33D7002B7FEA /* ReadComicController.m:122 */,
+			6597B56710ED3412002B7FEA /* ComicChapter.m:39 */,
+			6597B65B10ED4DAA002B7FEA /* MangaSeriesController.m:66 */,
+			6597B67A10ED58D5002B7FEA /* MangaSeriesController.m:100 */,
+			658E094810F15DD100CECE8E /* ComicListItem.m:73 */,
+			658E094A10F15DE300CECE8E /* ComicListItem.m:85 */,
+			658E095D10F160E400CECE8E /* ComicListItem.m:88 */,
+			658E096710F1612400CECE8E /* ComicListItem.m:74 */,
+			651909C810F6926B00972826 /* MangaSeriesController.m:88 */,
+			65EFD4D410FBDD7700ADA677 /* FavoritesController.m:99 */,
+			65EFD4D610FBDD7900ADA677 /* FavoritesController.m:98 */,
+			65C1ED2011022AC400A4B9F8 /* ReadComicController.m:140 */,
+			65C1ED2411022ADA00A4B9F8 /* ReadComicController.m:140 */,
+			65FD28271104A58E00970DB2 /* ReadComicController.m:215 */,
+			65FD28291104A58F00970DB2 /* ReadComicController.m:214 */,
+			65FD28D21104C08B00970DB2 /* ReadComicController.m:196 */,
+			65FD28F51104C56E00970DB2 /* ReadComicController.m:125 */,
+			65FD28F81104C5CF00970DB2 /* MangaSeriesController.m:156 */,
+			65FD28FA1104C5FB00970DB2 /* MangaSeriesController.m:94 */,
+			65E80B5B1107451F00C39A24 /* SettingsController.m:25 */,
+			65E80C0B110777B800C39A24 /* SearchController.m:89 */,
+			65E80C13110777C300C39A24 /* SearchController.m:100 */,
+			65E80C17110777D700C39A24 /* SettingsController.m:39 */,
+			6532D91B110C79980066FCED /* MangaSeriesController.m:53 */,
+			6532D928110C79FE0066FCED /* MangaSeriesController.m:55 */,
+			6551FA9A110F0236000E5420 /* MangaSeriesController.m:39 */,
+			6551FAA5110F0316000E5420 /* MangaSeriesController.m:51 */,
+			6551FAA9110F03C8000E5420 /* MangaSeriesController.m:59 */,
+			6551FB5B110F1780000E5420 /* objc_exception_throw */,
+			6551FB8D110F1EC4000E5420 /* Utils.m:62 */,
+			6551FC29110F4CD8000E5420 /* SettingsController.m:43 */,
+			6551FC32110F4CF4000E5420 /* ComicSeries.m:378 */,
+			6551FC48110F4EA3000E5420 /* MangaSeriesController.m:162 */,
+		);
+		codeSenseManager = 6586AEEE10E510C00088DC65 /* Code sense */;
+		executables = (
+			6586AEDD10E510A90088DC65 /* KiwiComics */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA23EDF0692099D00951B8B" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					295,
+					20,
+					195,
+					195,
+					127,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					589.58349609375,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					702,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 286324075;
+			PBXWorkspaceStateSaveDate = 286324075;
+		};
+		perUserProjectItems = {
+			650D00011110F91C000BDAC8 /* PBXTextBookmark */ = 650D00011110F91C000BDAC8 /* PBXTextBookmark */;
+			650D00151110FC3A000BDAC8 /* PBXTextBookmark */ = 650D00151110FC3A000BDAC8 /* PBXTextBookmark */;
+			650D00161110FC3A000BDAC8 /* PBXTextBookmark */ = 650D00161110FC3A000BDAC8 /* PBXTextBookmark */;
+			650D00171110FC3A000BDAC8 /* PBXTextBookmark */ = 650D00171110FC3A000BDAC8 /* PBXTextBookmark */;
+			650D00181110FC3A000BDAC8 /* PBXTextBookmark */ = 650D00181110FC3A000BDAC8 /* PBXTextBookmark */;
+			650D00191110FC3A000BDAC8 /* PBXTextBookmark */ = 650D00191110FC3A000BDAC8 /* PBXTextBookmark */;
+			650D001A1110FC3A000BDAC8 /* PBXTextBookmark */ = 650D001A1110FC3A000BDAC8 /* PBXTextBookmark */;
+			650D001C1110FC3A000BDAC8 /* PBXTextBookmark */ = 650D001C1110FC3A000BDAC8 /* PBXTextBookmark */;
+			650D001F1110FC3A000BDAC8 /* PBXTextBookmark */ = 650D001F1110FC3A000BDAC8 /* PBXTextBookmark */;
+			650D002E1110FD7C000BDAC8 /* PBXTextBookmark */ = 650D002E1110FD7C000BDAC8 /* PBXTextBookmark */;
+			650D002F1110FD7C000BDAC8 /* PBXTextBookmark */ = 650D002F1110FD7C000BDAC8 /* PBXTextBookmark */;
+			650D00301110FD7C000BDAC8 /* PBXTextBookmark */ = 650D00301110FD7C000BDAC8 /* PBXTextBookmark */;
+			650D00311110FD7C000BDAC8 /* PBXTextBookmark */ = 650D00311110FD7C000BDAC8 /* PBXTextBookmark */;
+			650D00321110FD7C000BDAC8 /* PBXTextBookmark */ = 650D00321110FD7C000BDAC8 /* PBXTextBookmark */;
+			650D003A1110FE49000BDAC8 /* PBXTextBookmark */ = 650D003A1110FE49000BDAC8 /* PBXTextBookmark */;
+			650D00421111013A000BDAC8 /* PBXTextBookmark */ = 650D00421111013A000BDAC8 /* PBXTextBookmark */;
+			650D00431111013A000BDAC8 /* PBXTextBookmark */ = 650D00431111013A000BDAC8 /* PBXTextBookmark */;
+			650D004911110216000BDAC8 /* PBXTextBookmark */ = 650D004911110216000BDAC8 /* PBXTextBookmark */;
+			650DFFF31110F91C000BDAC8 /* PBXTextBookmark */ = 650DFFF31110F91C000BDAC8 /* PBXTextBookmark */;
+			650DFFF41110F91C000BDAC8 /* PBXTextBookmark */ = 650DFFF41110F91C000BDAC8 /* PBXTextBookmark */;
+			650DFFF71110F91C000BDAC8 /* PBXTextBookmark */ = 650DFFF71110F91C000BDAC8 /* PBXTextBookmark */;
+			651E93FE1105C83A00AD8046 /* PBXTextBookmark */ = 651E93FE1105C83A00AD8046 /* PBXTextBookmark */;
+			651E93FF1105C83A00AD8046 /* PBXTextBookmark */ = 651E93FF1105C83A00AD8046 /* PBXTextBookmark */;
+			651E94111105C86200AD8046 /* PlistBookmark */ = 651E94111105C86200AD8046 /* PlistBookmark */;
+			651E94161105C94700AD8046 /* PBXTextBookmark */ = 651E94161105C94700AD8046 /* PBXTextBookmark */;
+			651E94181105C94700AD8046 /* PBXTextBookmark */ = 651E94181105C94700AD8046 /* PBXTextBookmark */;
+			651E94191105C94700AD8046 /* PBXTextBookmark */ = 651E94191105C94700AD8046 /* PBXTextBookmark */;
+			651E941A1105C94700AD8046 /* PBXTextBookmark */ = 651E941A1105C94700AD8046 /* PBXTextBookmark */;
+			6551FB94110F3627000E5420 /* PBXTextBookmark */ = 6551FB94110F3627000E5420 /* PBXTextBookmark */;
+			6551FC2B110F4CEA000E5420 /* XDModelBookmark */ = 6551FC2B110F4CEA000E5420 /* XDModelBookmark */;
+			6551FC3A110F4D3F000E5420 /* PBXTextBookmark */ = 6551FC3A110F4D3F000E5420 /* PBXTextBookmark */;
+			6551FC3B110F4D3F000E5420 /* PBXTextBookmark */ = 6551FC3B110F4D3F000E5420 /* PBXTextBookmark */;
+			655ECDC610FCAE75005D7488 /* PBXTextBookmark */ = 655ECDC610FCAE75005D7488 /* PBXTextBookmark */;
+			65E80B3D1107441B00C39A24 /* PBXBookmark */ = 65E80B3D1107441B00C39A24 /* PBXBookmark */;
+			65E80B3E1107441B00C39A24 /* PBXBookmark */ = 65E80B3E1107441B00C39A24 /* PBXBookmark */;
+			65E80B7C110747DD00C39A24 /* PlistBookmark */ = 65E80B7C110747DD00C39A24 /* PlistBookmark */;
+			65E80BB411074F5400C39A24 /* PBXTextBookmark */ = 65E80BB411074F5400C39A24 /* PBXTextBookmark */;
+			65E80BE51107749300C39A24 /* PBXTextBookmark */ = 65E80BE51107749300C39A24 /* PBXTextBookmark */;
+			65F2F048110F552500DCEAC0 /* PBXTextBookmark */ = 65F2F048110F552500DCEAC0 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 6586AEED10E510C00088DC65 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {795, 331}}";
+			sepNavSelRange = "{28, 0}";
+			sepNavVisRange = "{0, 258}";
+		};
+	};
+	6501587B10E78955009036E8 /* MangaSeriesController.m:143 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65630C5C10E6DE1A00E66C76 /* MangaSeriesController.m */;
+		functionName = "-viewWillAppear:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 143;
+		location = KiwiComics;
+		modificationTime = 286327101.45032;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	650158C210E7929F009036E8 /* Utils.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {880, 440}}";
+			sepNavSelRange = "{29, 0}";
+			sepNavVisRange = "{0, 366}";
+		};
+	};
+	650158C310E7929F009036E8 /* Utils.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1188, 1144}}";
+			sepNavSelRange = "{2178, 0}";
+			sepNavVisRange = "{1444, 1029}";
+			sepNavWindowFrame = "{{75, 135}, {967, 638}}";
+		};
+	};
+	6501590410E7989D009036E8 /* MangaSeriesModel.m:96 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AEFC10E526520088DC65 /* MangaSeriesModel.m */;
+		functionName = "+loadMangaWithName:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 96;
+		location = KiwiComics;
+		modificationTime = 286327101.450689;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	6501594410E79B17009036E8 /* MangaSeriesModel.m:104 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AEFC10E526520088DC65 /* MangaSeriesModel.m */;
+		functionName = "+loadMangaWithName:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 104;
+		location = KiwiComics;
+		modificationTime = 286327101.450989;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	6501597610E7ADA1009036E8 /* KiwiComics.xcdatamodel */ = {
+		uiCtxt = {
+			"Xdesign Model Editor Bookmark Key" = {
+				UIContextForDetailArea = {
+					_indexOfSelectedPane = 0;
+					_indexOfSelectedView = 1;
+				};
+				UIContextForEntityArea = {
+					_indexOfSelectedView = 0;
+					chosenTableColumnns = (
+						"ET Entity",
+						"ET Abstract",
+						"ET Class",
+					);
+					chosenTableColumnns_sortDirections = (
+						YES,
+					);
+					chosenTableColumnns_sortKeys = (
+						name,
+					);
+					chosenTableColumnns_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableWidths = (
+						103.000000,
+						49.000000,
+						92.080078,
+					);
+				};
+				UIContextForLayoutManager = {
+					detailSplitGeometry = {
+						_collapsingFrameDimension = 0;
+						_indexOfCollapsedView = 0;
+						_percentageOfCollapsedView = 0;
+						isCollapsed = yes;
+						sizes = (
+							"{{0, 0}, {612, 218}}",
+							"{{617, 0}, {322, 218}}",
+						);
+					};
+					diagramSplitGeometry = {
+						_collapsingFrameDimension = 0;
+						_indexOfCollapsedView = 0;
+						_percentageOfCollapsedView = 0;
+						isCollapsed = yes;
+						sizes = (
+							"{{0, 0}, {939, 220}}",
+							"{{0, 225}, {939, 255}}",
+						);
+					};
+					tableSplitGeometry = {
+						_collapsingFrameDimension = 0;
+						_indexOfCollapsedView = 0;
+						_percentageOfCollapsedView = 0;
+						isCollapsed = yes;
+						sizes = (
+							"{{0, 0}, {269, 218}}",
+							"{{274, 0}, {336, 218}}",
+						);
+					};
+				};
+				UIContextForPropertyArea = {
+					_indexOfSelectedView = 0;
+					chosenTableColumnnFRTs = (
+						"FT Fetch Request",
+						"FT Predicate",
+					);
+					chosenTableColumnnFRTs_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnFRTs_sortKeys = (
+						name,
+					);
+					chosenTableColumnnFRTs_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsAT = (
+						"AT Attribute",
+						"AT Type",
+					);
+					chosenTableColumnnsAT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsAT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsAT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsFPT = (
+						"FP FetchedProperty",
+						"FP Destination",
+						"FP Predicate",
+					);
+					chosenTableColumnnsFPT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsFPT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsFPT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsPT = (
+						"PT Property",
+						"PT Kind",
+						"PT SharedKeyOne",
+					);
+					chosenTableColumnnsPT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsPT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsPT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsRT = (
+						"RT Relationship",
+						"RT Destination",
+					);
+					chosenTableColumnnsRT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsRT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsRT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableWidthsAT = (
+						128.000000,
+						64.000000,
+					);
+					chosenTableWidthsFPT = (
+						128.000000,
+						64.000000,
+						144.764160,
+					);
+					chosenTableWidthsFRT = (
+						128.000000,
+						249.764160,
+					);
+					chosenTableWidthsPT = (
+						128.000000,
+						108.110840,
+						96.570801,
+					);
+					chosenTableWidthsRT = (
+						128.000000,
+						286.000000,
+					);
+				};
+				"xdesign model browser state key - shown/hidden" = 1;
+				"xdesign model diagram view visible rect key" = "{{-113, 0}, {924, 240}}";
+			};
+			sepNavWindowFrame = "{{116, 38}, {967, 638}}";
+		};
+	};
+	650CAC4410E807A600978114 /* ReadComicController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {880, 780}}";
+			sepNavSelRange = "{836, 0}";
+			sepNavVisRange = "{311, 1012}";
+			sepNavWindowFrame = "{{75, 135}, {967, 638}}";
+		};
+	};
+	650CAC4510E807A600978114 /* ReadComicController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {985, 4316}}";
+			sepNavSelRange = "{5967, 0}";
+			sepNavVisRange = "{5346, 1277}";
+			sepNavWindowFrame = "{{163, 51}, {967, 638}}";
+		};
+	};
+	650CAC4B10E80C0C00978114 /* MangaPageModel.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = MangaPageModel.m;
+		path = /Users/daniel/Programming/KiwiComics/Classes/MangaPageModel.m;
+		sourceTree = "<absolute>";
+	};
+	650D00011110F91C000BDAC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65E80B2911073D2F00C39A24 /* ComicImageView.h */;
+		name = "ComicImageView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 769;
+		vrLoc = 0;
+	};
+	650D00151110FC3A000BDAC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65B4DDA210EABA89003AD0C5 /* ComicPage.h */;
+		name = "ComicPage.h: 18";
+		rLen = 0;
+		rLoc = 379;
+		rType = 0;
+		vrLen = 505;
+		vrLoc = 0;
+	};
+	650D00161110FC3A000BDAC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65D79FC510EB6DB700F8D973 /* ComicListItem.m */;
+		name = "ComicListItem.m: 91";
+		rLen = 1;
+		rLoc = 2397;
+		rType = 0;
+		vrLen = 1267;
+		vrLoc = 1130;
+	};
+	650D00171110FC3A000BDAC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65D79FC410EB6DB700F8D973 /* ComicListItem.h */;
+		name = "ComicListItem.h: 6";
+		rLen = 0;
+		rLoc = 48;
+		rType = 0;
+		vrLen = 316;
+		vrLoc = 0;
+	};
+	650D00181110FC3A000BDAC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65B4DDA310EABA89003AD0C5 /* ComicPage.m */;
+		name = "ComicPage.m: 78";
+		rLen = 3;
+		rLoc = 1585;
+		rType = 0;
+		vrLen = 834;
+		vrLoc = 482;
+	};
+	650D00191110FC3A000BDAC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65B4DDA410EABA89003AD0C5 /* ComicSeries.h */;
+		name = "ComicSeries.h: 22";
+		rLen = 0;
+		rLoc = 561;
+		rType = 0;
+		vrLen = 1108;
+		vrLoc = 39;
+	};
+	650D001A1110FC3A000BDAC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65630C5C10E6DE1A00E66C76 /* MangaSeriesController.m */;
+		name = "MangaSeriesController.m: 161";
+		rLen = 0;
+		rLoc = 4484;
+		rType = 0;
+		vrLen = 1340;
+		vrLoc = 3143;
+	};
+	650D001C1110FC3A000BDAC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65110DC01107340F004248DD /* SettingsController.m */;
+		name = "SettingsController.m: 43";
+		rLen = 0;
+		rLoc = 1222;
+		rType = 0;
+		vrLen = 1167;
+		vrLoc = 90;
+	};
+	650D001F1110FC3A000BDAC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6586AF8510E540020088DC65 /* SearchController.h */;
+		name = "SearchController.h: 18";
+		rLen = 0;
+		rLoc = 406;
+		rType = 0;
+		vrLen = 522;
+		vrLoc = 0;
+	};
+	650D002E1110FD7C000BDAC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65110DBF1107340F004248DD /* SettingsController.h */;
+		name = "SettingsController.h: 23";
+		rLen = 0;
+		rLoc = 511;
+		rType = 0;
+		vrLen = 511;
+		vrLoc = 0;
+	};
+	650D002F1110FD7C000BDAC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6586AEF110E513240088DC65 /* FavoritesController.m */;
+		name = "FavoritesController.m: 48";
+		rLen = 4;
+		rLoc = 1239;
+		rType = 0;
+		vrLen = 1075;
+		vrLoc = 305;
+	};
+	650D00301110FD7C000BDAC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6586AEF010E513240088DC65 /* FavoritesController.h */;
+		name = "FavoritesController.h: 14";
+		rLen = 28;
+		rLoc = 241;
+		rType = 0;
+		vrLen = 709;
+		vrLoc = 0;
+	};
+	650D00311110FD7C000BDAC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6586AF8610E540020088DC65 /* SearchController.m */;
+		name = "SearchController.m: 139";
+		rLen = 12;
+		rLoc = 3446;
+		rType = 0;
+		vrLen = 1400;
+		vrLoc = 4029;
+	};
+	650D00321110FD7C000BDAC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65630C5B10E6DE1A00E66C76 /* MangaSeriesController.h */;
+		name = "MangaSeriesController.h: 4";
+		rLen = 0;
+		rLoc = 48;
+		rType = 0;
+		vrLen = 1094;
+		vrLoc = 0;
+	};
+	650D003A1110FE49000BDAC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65E80B2A11073D2F00C39A24 /* ComicImageView.m */;
+		name = "ComicImageView.m: 28";
+		rLen = 0;
+		rLoc = 582;
+		rType = 0;
+		vrLen = 775;
+		vrLoc = 1348;
+	};
+	650D00421111013A000BDAC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 650CAC4410E807A600978114 /* ReadComicController.h */;
+		name = "ReadComicController.h: 35";
+		rLen = 0;
+		rLoc = 836;
+		rType = 0;
+		vrLen = 1012;
+		vrLoc = 311;
+	};
+	650D00431111013A000BDAC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 650CAC4510E807A600978114 /* ReadComicController.m */;
+		name = "ReadComicController.m: 256";
+		rLen = 0;
+		rLoc = 8046;
+		rType = 0;
+		vrLen = 1229;
+		vrLoc = 4887;
+	};
+	650D004911110216000BDAC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 650CAC4510E807A600978114 /* ReadComicController.m */;
+		name = "ReadComicController.m: 208";
+		rLen = 0;
+		rLoc = 5967;
+		rType = 0;
+		vrLen = 1277;
+		vrLoc = 5346;
+	};
+	650DFFF31110F91C000BDAC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65B4DD9510EAB92D003AD0C5 /* ComicChapter.m */;
+		name = "ComicChapter.m: 49";
+		rLen = 0;
+		rLoc = 1096;
+		rType = 0;
+		vrLen = 1175;
+		vrLoc = 331;
+	};
+	650DFFF41110F91C000BDAC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65B4DD9410EAB92D003AD0C5 /* ComicChapter.h */;
+		name = "ComicChapter.h: 29";
+		rLen = 0;
+		rLoc = 767;
+		rType = 0;
+		vrLen = 971;
+		vrLoc = 22;
+	};
+	650DFFF71110F91C000BDAC8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65B4DDA510EABA89003AD0C5 /* ComicSeries.m */;
+		name = "ComicSeries.m: 378";
+		rLen = 0;
+		rLoc = 11198;
+		rType = 0;
+		vrLen = 772;
+		vrLoc = 10554;
+	};
+	65110DBF1107340F004248DD /* SettingsController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {880, 473}}";
+			sepNavSelRange = "{511, 0}";
+			sepNavVisRange = "{0, 511}";
+		};
+	};
+	65110DC01107340F004248DD /* SettingsController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {880, 611}}";
+			sepNavSelRange = "{1222, 0}";
+			sepNavVisRange = "{90, 1167}";
+		};
+	};
+	651909C810F6926B00972826 /* MangaSeriesController.m:88 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65630C5C10E6DE1A00E66C76 /* MangaSeriesController.m */;
+		functionName = "-gotoChapterWithNr:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 88;
+		location = KiwiComics;
+		modificationTime = 286327101.482482;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	651E93FE1105C83A00AD8046 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 3";
+		rLen = 0;
+		rLoc = 28;
+		rType = 0;
+		vrLen = 258;
+		vrLoc = 0;
+	};
+	651E93FF1105C83A00AD8046 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28A0AB4B0D9B1048005BE974 /* KiwiComics_Prefix.pch */;
+		name = "KiwiComics_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 223;
+		vrLoc = 0;
+	};
+	651E94111105C86200AD8046 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* KiwiComics-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIconFile,
+		);
+		name = "/Users/daniel/Programming/KiwiComics/KiwiComics-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	651E94161105C94700AD8046 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6586AF1A10E5379F0088DC65 /* TFHpple.h */;
+		name = "TFHpple.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 761;
+		vrLoc = 908;
+	};
+	651E94181105C94700AD8046 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6586AF1C10E5379F0088DC65 /* TFHppleElement.h */;
+		name = "TFHppleElement.h: 54";
+		rLen = 0;
+		rLoc = 1895;
+		rType = 0;
+		vrLen = 637;
+		vrLoc = 1265;
+	};
+	651E94191105C94700AD8046 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6586AF1D10E5379F0088DC65 /* TFHppleElement.m */;
+		name = "TFHppleElement.m: 39";
+		rLen = 0;
+		rLoc = 1618;
+		rType = 0;
+		vrLen = 561;
+		vrLoc = 1267;
+	};
+	651E941A1105C94700AD8046 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6586AF1F10E5379F0088DC65 /* XPathQuery.m */;
+		name = "XPathQuery.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 719;
+		vrLoc = 0;
+	};
+	6532D91B110C79980066FCED /* MangaSeriesController.m:53 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65630C5C10E6DE1A00E66C76 /* MangaSeriesController.m */;
+		functionName = "-prefetchChapter";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 53;
+		location = KiwiComics;
+		modificationTime = 286327101.489169;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	6532D928110C79FE0066FCED /* MangaSeriesController.m:55 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65630C5C10E6DE1A00E66C76 /* MangaSeriesController.m */;
+		functionName = "-prefetchChapter";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 55;
+		modificationTime = 286327101.489566;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	6551FA9A110F0236000E5420 /* MangaSeriesController.m:39 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65630C5C10E6DE1A00E66C76 /* MangaSeriesController.m */;
+		functionName = "-download:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 39;
+		location = KiwiComics;
+		modificationTime = 286327101.489993;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	6551FAA5110F0316000E5420 /* MangaSeriesController.m:51 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65630C5C10E6DE1A00E66C76 /* MangaSeriesController.m */;
+		functionName = "-prefetchChapter";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 51;
+		location = KiwiComics;
+		modificationTime = 286327101.490447;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	6551FAA9110F03C8000E5420 /* MangaSeriesController.m:59 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65630C5C10E6DE1A00E66C76 /* MangaSeriesController.m */;
+		functionName = "-prefetchChapter";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 59;
+		location = KiwiComics;
+		modificationTime = 286327101.490852;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	6551FB5B110F1780000E5420 /* objc_exception_throw */ = {
+		isa = PBXSymbolicBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 1;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		hitCount = 0;
+		ignoreCount = 0;
+		location = libobjc.A.dylib;
+		modificationTime = 286327101.495049;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+		symbolName = objc_exception_throw;
+	};
+	6551FB8D110F1EC4000E5420 /* Utils.m:62 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 650158C310E7929F009036E8 /* Utils.m */;
+		functionName = "+saveDatabaseWithContext:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 62;
+		location = KiwiComics;
+		modificationTime = 286327101.491266;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	6551FB94110F3627000E5420 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 650158C210E7929F009036E8 /* Utils.h */;
+		name = "Utils.h: 3";
+		rLen = 0;
+		rLoc = 29;
+		rType = 0;
+		vrLen = 366;
+		vrLoc = 0;
+	};
+	6551FC29110F4CD8000E5420 /* SettingsController.m:43 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65110DC01107340F004248DD /* SettingsController.m */;
+		functionName = "-emptyCache:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 43;
+		location = KiwiComics;
+		modificationTime = 286327101.491701;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	6551FC2B110F4CEA000E5420 /* XDModelBookmark */ = {
+		isa = XDModelBookmark;
+		fRef = 6501597610E7ADA1009036E8 /* KiwiComics.xcdatamodel */;
+		fallbackIsa = PBXBookmark;
+	};
+	6551FC32110F4CF4000E5420 /* ComicSeries.m:378 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65B4DDA510EABA89003AD0C5 /* ComicSeries.m */;
+		functionName = "+clearOfflineData";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 378;
+		location = KiwiComics;
+		modificationTime = 286327101.492135;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	6551FC3A110F4D3F000E5420 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* KiwiComicsAppDelegate.m */;
+		name = "KiwiComicsAppDelegate.m: 117";
+		rLen = 0;
+		rLoc = 3704;
+		rType = 0;
+		vrLen = 1654;
+		vrLoc = 2805;
+	};
+	6551FC3B110F4D3F000E5420 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* KiwiComicsAppDelegate.h */;
+		name = "KiwiComicsAppDelegate.h: 3";
+		rLen = 0;
+		rLoc = 45;
+		rType = 0;
+		vrLen = 859;
+		vrLoc = 0;
+	};
+	6551FC48110F4EA3000E5420 /* MangaSeriesController.m:162 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65630C5C10E6DE1A00E66C76 /* MangaSeriesController.m */;
+		functionName = "-viewWillAppear:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 162;
+		location = KiwiComics;
+		modificationTime = 286327101.492556;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	6559704D10E96D0900C4A19E /* MangaSeriesModel.m:54 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AEFC10E526520088DC65 /* MangaSeriesModel.m */;
+		functionName = "+loadAllMangaNames";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 54;
+		location = KiwiComics;
+		modificationTime = 286327101.451276;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	6559705710E96D2500C4A19E /* MangaSeriesModel.m:72 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AEFC10E526520088DC65 /* MangaSeriesModel.m */;
+		functionName = "-fill";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 72;
+		location = KiwiComics;
+		modificationTime = 286327101.451585;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	6559705910E96D2700C4A19E /* MangaSeriesModel.m:70 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AEFC10E526520088DC65 /* MangaSeriesModel.m */;
+		functionName = "-fill";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 70;
+		location = KiwiComics;
+		modificationTime = 286327101.451897;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	655ECDC610FCAE75005D7488 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 655ECDC710FCAE75005D7488 /* Root.strings */;
+		name = "Root.strings: 4";
+		rLen = 0;
+		rLoc = 211;
+		rType = 0;
+		vrLen = 212;
+		vrLoc = 0;
+	};
+	655ECDC710FCAE75005D7488 /* Root.strings */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.plist.strings;
+		name = Root.strings;
+		path = /Users/daniel/Programming/KiwiComics/Settings.bundle/en.lproj/Root.strings;
+		sourceTree = "<absolute>";
+	};
+	655ECDC910FCAE75005D7488 /* Root.plist */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.plist.xml;
+		name = Root.plist;
+		path = /Users/daniel/Programming/KiwiComics/Settings.bundle/Root.plist;
+		sourceTree = "<absolute>";
+	};
+	65630B7610E6C41C00E66C76 /* MangaSeriesModel.m:73 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AEFC10E526520088DC65 /* MangaSeriesModel.m */;
+		functionName = "+loadMangaWithName:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 73;
+		location = KiwiComics;
+		modificationTime = 286327101.446728;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65630B7810E6C42000E66C76 /* MangaSeriesModel.m:119 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AEFC10E526520088DC65 /* MangaSeriesModel.m */;
+		functionName = "+loadMangaWithName:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 119;
+		location = KiwiComics;
+		modificationTime = 286327101.447033;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65630B7A10E6C42300E66C76 /* MangaSeriesModel.m:103 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AEFC10E526520088DC65 /* MangaSeriesModel.m */;
+		functionName = "+loadMangaWithName:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 103;
+		location = KiwiComics;
+		modificationTime = 286327101.447315;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65630C1010E6CE2100E66C76 /* MangaSeriesModel.m:103 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AEFC10E526520088DC65 /* MangaSeriesModel.m */;
+		functionName = "+loadMangaWithName:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 103;
+		location = KiwiComics;
+		modificationTime = 286327101.447609;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65630C3E10E6D25600E66C76 /* MangaSeriesModel.m:103 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AEFC10E526520088DC65 /* MangaSeriesModel.m */;
+		functionName = "+loadMangaWithName:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 103;
+		location = KiwiComics;
+		modificationTime = 286327101.44792;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65630C5510E6D3DD00E66C76 /* MangaSeriesModel.m:126 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AEFC10E526520088DC65 /* MangaSeriesModel.m */;
+		functionName = "+loadMangaWithName:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 126;
+		location = KiwiComics;
+		modificationTime = 286327101.44826;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65630C5B10E6DE1A00E66C76 /* MangaSeriesController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {880, 598}}";
+			sepNavSelRange = "{48, 0}";
+			sepNavVisRange = "{0, 1094}";
+			sepNavWindowFrame = "{{140, 72}, {967, 638}}";
+		};
+	};
+	65630C5C10E6DE1A00E66C76 /* MangaSeriesController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 3107}}";
+			sepNavSelRange = "{4484, 0}";
+			sepNavVisRange = "{3143, 1340}";
+			sepNavWindowFrame = "{{163, 51}, {967, 638}}";
+		};
+	};
+	65630C7A10E6E84B00E66C76 /* SearchController.m:175 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AF8610E540020088DC65 /* SearchController.m */;
+		functionName = "-tableView:didSelectRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 175;
+		location = KiwiComics;
+		modificationTime = 286327101.44856;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65630C7C10E6E84F00E66C76 /* SearchController.m:178 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AF8610E540020088DC65 /* SearchController.m */;
+		functionName = "-tableView:didSelectRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 178;
+		location = KiwiComics;
+		modificationTime = 286327101.448888;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65630C7E10E6E85100E66C76 /* SearchController.m:175 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AF8610E540020088DC65 /* SearchController.m */;
+		functionName = "-tableView:didSelectRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 175;
+		location = KiwiComics;
+		modificationTime = 286327101.449186;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65630C8010E6E85100E66C76 /* SearchController.m:175 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AF8610E540020088DC65 /* SearchController.m */;
+		functionName = "-tableView:didSelectRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 175;
+		location = KiwiComics;
+		modificationTime = 286327101.449453;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65630CAD10E6EFF100E66C76 /* MangaSeriesController.m:232 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65630C5C10E6DE1A00E66C76 /* MangaSeriesController.m */;
+		functionName = "-pickerView:titleForRow:forComponent:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 232;
+		location = KiwiComics;
+		modificationTime = 286327101.449723;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65630CAF10E6EFF300E66C76 /* MangaSeriesController.m:212 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65630C5C10E6DE1A00E66C76 /* MangaSeriesController.m */;
+		functionName = "-pickerView:numberOfRowsInComponent:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 212;
+		location = KiwiComics;
+		modificationTime = 286327101.450016;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	6586AEDD10E510A90088DC65 /* KiwiComics */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+			{
+				active = NO;
+				name = MallocStackLogging;
+				value = YES;
+			},
+			{
+				active = NO;
+				name = NSDebugEnabled;
+				value = YES;
+			},
+			{
+				active = NO;
+				name = CFZombieLevel;
+				value = 3;
+			},
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = KiwiComics;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+			$cs = 1;
+			$ds = 1;
+			$eax = 1;
+			$ebp = 1;
+			$ebx = 1;
+			$ecx = 1;
+			$edi = 1;
+			$edx = 1;
+			$eflags = 1;
+			$eip = 1;
+			$es = 1;
+			$esi = 1;
+			$esp = 1;
+			$fctrl = 1;
+			$fioff = 1;
+			$fiseg = 1;
+			$fooff = 1;
+			$fop = 1;
+			$foseg = 1;
+			$fs = 1;
+			$fstat = 1;
+			$ftag = 1;
+			$gs = 1;
+			$ss = 1;
+		};
+	};
+	6586AEED10E510C00088DC65 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	6586AEEE10E510C00088DC65 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	6586AEF010E513240088DC65 /* FavoritesController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {880, 473}}";
+			sepNavSelRange = "{241, 28}";
+			sepNavVisRange = "{0, 709}";
+		};
+	};
+	6586AEF110E513240088DC65 /* FavoritesController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1069, 3484}}";
+			sepNavSelRange = "{1239, 4}";
+			sepNavVisRange = "{305, 1075}";
+			sepNavWindowFrame = "{{186, 30}, {967, 638}}";
+		};
+	};
+	6586AEFC10E526520088DC65 /* MangaSeriesModel.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = MangaSeriesModel.m;
+		path = /Users/daniel/Programming/KiwiComics/Classes/MangaSeriesModel.m;
+		sourceTree = "<absolute>";
+	};
+	6586AEFF10E5297F0088DC65 /* MangaChapterModel.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = MangaChapterModel.m;
+		path = /Users/daniel/Programming/KiwiComics/Classes/MangaChapterModel.m;
+		sourceTree = "<absolute>";
+	};
+	6586AF1A10E5379F0088DC65 /* TFHpple.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {795, 637}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{908, 761}";
+		};
+	};
+	6586AF1B10E5379F0088DC65 /* TFHpple.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {795, 1222}}";
+			sepNavSelRange = "{2443, 13}";
+			sepNavVisRange = "{30, 1086}";
+		};
+	};
+	6586AF1C10E5379F0088DC65 /* TFHppleElement.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {795, 741}}";
+			sepNavSelRange = "{1895, 0}";
+			sepNavVisRange = "{1265, 637}";
+			sepNavWindowFrame = "{{96, 114}, {967, 638}}";
+		};
+	};
+	6586AF1D10E5379F0088DC65 /* TFHppleElement.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {795, 1183}}";
+			sepNavSelRange = "{1618, 0}";
+			sepNavVisRange = "{1267, 561}";
+			sepNavWindowFrame = "{{119, 93}, {967, 638}}";
+		};
+	};
+	6586AF1E10E5379F0088DC65 /* XPathQuery.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {795, 276}}";
+			sepNavSelRange = "{167, 0}";
+			sepNavVisRange = "{0, 275}";
+		};
+	};
+	6586AF1F10E5379F0088DC65 /* XPathQuery.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {795, 2418}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 719}";
+		};
+	};
+	6586AF4B10E53BAA0088DC65 /* MangaSeriesModel.m:38 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AEFC10E526520088DC65 /* MangaSeriesModel.m */;
+		functionName = "+loadAllMangaNames";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 38;
+		location = KiwiComics;
+		modificationTime = 286327101.441746;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	6586AF8510E540020088DC65 /* SearchController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {880, 473}}";
+			sepNavSelRange = "{406, 0}";
+			sepNavVisRange = "{0, 522}";
+			sepNavWindowFrame = "{{94, 114}, {967, 638}}";
+		};
+	};
+	6586AF8610E540020088DC65 /* SearchController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1069, 3094}}";
+			sepNavSelRange = "{3446, 12}";
+			sepNavVisRange = "{4029, 1400}";
+			sepNavWindowFrame = "{{71, 135}, {967, 638}}";
+		};
+	};
+	6586AFA010E544860088DC65 /* SearchController.m:154 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AF8610E540020088DC65 /* SearchController.m */;
+		functionName = "-tableView:cellForRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 154;
+		location = KiwiComics;
+		modificationTime = 286327101.442337;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	6586AFA210E544880088DC65 /* SearchController.m:154 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AF8610E540020088DC65 /* SearchController.m */;
+		functionName = "-tableView:cellForRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 154;
+		location = KiwiComics;
+		modificationTime = 286327101.442666;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	6586B03110E5663A0088DC65 /* SearchController.m:148 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AF8610E540020088DC65 /* SearchController.m */;
+		functionName = "-tableView:cellForRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 148;
+		location = KiwiComics;
+		modificationTime = 286327101.443003;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	6586B03310E5663D0088DC65 /* SearchController.m:158 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AF8610E540020088DC65 /* SearchController.m */;
+		functionName = "-searchDisplayController:shouldReloadTableForSearchString:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 158;
+		location = KiwiComics;
+		modificationTime = 286327101.443388;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	6586B03B10E566AC0088DC65 /* SearchController.m:147 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AF8610E540020088DC65 /* SearchController.m */;
+		functionName = "-tableView:cellForRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 147;
+		location = KiwiComics;
+		modificationTime = 286327101.44371;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	6586B04010E5672B0088DC65 /* SearchController.m:142 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AF8610E540020088DC65 /* SearchController.m */;
+		functionName = "-tableView:cellForRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 142;
+		location = KiwiComics;
+		modificationTime = 286327101.44403;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	6586B04210E5672E0088DC65 /* SearchController.m:145 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AF8610E540020088DC65 /* SearchController.m */;
+		functionName = "-tableView:cellForRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 145;
+		location = KiwiComics;
+		modificationTime = 286327101.444367;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	6586B04410E567310088DC65 /* SearchController.m:150 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AF8610E540020088DC65 /* SearchController.m */;
+		functionName = "-tableView:cellForRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 150;
+		location = KiwiComics;
+		modificationTime = 286327101.444686;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	6586B04D10E5677A0088DC65 /* SearchController.m:143 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AF8610E540020088DC65 /* SearchController.m */;
+		functionName = "-tableView:cellForRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 143;
+		location = KiwiComics;
+		modificationTime = 286327101.445012;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	6586B04F10E5677C0088DC65 /* SearchController.m:144 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AF8610E540020088DC65 /* SearchController.m */;
+		functionName = "-tableView:cellForRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 144;
+		location = KiwiComics;
+		modificationTime = 286327101.445305;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	6586B08810E5729C0088DC65 /* SearchController.m:174 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AF8610E540020088DC65 /* SearchController.m */;
+		functionName = "-tableView:didSelectRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 174;
+		location = KiwiComics;
+		modificationTime = 286327101.4457;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	6586B08A10E572A70088DC65 /* SearchController.m:178 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AF8610E540020088DC65 /* SearchController.m */;
+		functionName = "-tableView:didSelectRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 178;
+		location = KiwiComics;
+		modificationTime = 286327101.445948;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	6586B08C10E572A80088DC65 /* SearchController.m:175 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AF8610E540020088DC65 /* SearchController.m */;
+		functionName = "-tableView:didSelectRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 175;
+		location = KiwiComics;
+		modificationTime = 286327101.446196;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	6586B09010E572BC0088DC65 /* SearchController.m:155 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AF8610E540020088DC65 /* SearchController.m */;
+		functionName = "-tableView:cellForRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 155;
+		location = KiwiComics;
+		modificationTime = 286327101.446446;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	658E094810F15DD100CECE8E /* ComicListItem.m:73 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65D79FC510EB6DB700F8D973 /* ComicListItem.m */;
+		functionName = "+dowloadFromInternetIntoCache";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 73;
+		location = KiwiComics;
+		modificationTime = 286327101.480808;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	658E094A10F15DE300CECE8E /* ComicListItem.m:85 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65D79FC510EB6DB700F8D973 /* ComicListItem.m */;
+		functionName = "+dowloadFromInternetIntoCache";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 85;
+		location = KiwiComics;
+		modificationTime = 286327101.481214;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	658E095D10F160E400CECE8E /* ComicListItem.m:88 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65D79FC510EB6DB700F8D973 /* ComicListItem.m */;
+		functionName = "+dowloadFromInternetIntoCache";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 88;
+		location = KiwiComics;
+		modificationTime = 286327101.481627;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	658E096710F1612400CECE8E /* ComicListItem.m:74 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65D79FC510EB6DB700F8D973 /* ComicListItem.m */;
+		functionName = "+dowloadFromInternetIntoCache";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 74;
+		location = KiwiComics;
+		modificationTime = 286327101.482044;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	6597B47810ED1B94002B7FEA /* ComicSeries.m:139 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65B4DDA510EABA89003AD0C5 /* ComicSeries.m */;
+		functionName = "+downloadFromInternetIntoCacheWithLink:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 139;
+		location = KiwiComics;
+		modificationTime = 286327101.476802;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	6597B49710ED1E7E002B7FEA /* ComicSeries.m:144 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65B4DDA510EABA89003AD0C5 /* ComicSeries.m */;
+		functionName = "+downloadFromInternetIntoCacheWithLink:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 144;
+		location = KiwiComics;
+		modificationTime = 286327101.477191;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	6597B55410ED33A4002B7FEA /* ReadComicController.m:174 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 650CAC4510E807A600978114 /* ReadComicController.m */;
+		functionName = "-loadImage";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 174;
+		location = KiwiComics;
+		modificationTime = 286327101.477594;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	6597B55610ED33B1002B7FEA /* ReadComicController.m:155 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 650CAC4510E807A600978114 /* ReadComicController.m */;
+		functionName = "-viewDidAppear:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 155;
+		location = KiwiComics;
+		modificationTime = 286327101.478103;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	6597B55D10ED33D0002B7FEA /* ReadComicController.m:154 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 650CAC4510E807A600978114 /* ReadComicController.m */;
+		functionName = "-viewDidAppear:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 154;
+		location = KiwiComics;
+		modificationTime = 286327101.478583;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	6597B55F10ED33D7002B7FEA /* ReadComicController.m:122 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 650CAC4510E807A600978114 /* ReadComicController.m */;
+		functionName = "-loadChapter";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 122;
+		location = KiwiComics;
+		modificationTime = 286327101.479031;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	6597B56710ED3412002B7FEA /* ComicChapter.m:39 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65B4DD9510EAB92D003AD0C5 /* ComicChapter.m */;
+		functionName = "-downloadPagesFromInternet";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 39;
+		location = KiwiComics;
+		modificationTime = 286327101.479496;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	6597B65B10ED4DAA002B7FEA /* MangaSeriesController.m:66 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65630C5C10E6DE1A00E66C76 /* MangaSeriesController.m */;
+		functionName = "-setFavoriteButton:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 66;
+		location = KiwiComics;
+		modificationTime = 286327101.480047;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	6597B67A10ED58D5002B7FEA /* MangaSeriesController.m:100 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65630C5C10E6DE1A00E66C76 /* MangaSeriesController.m */;
+		functionName = "-showFavoriteLabel:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 100;
+		location = KiwiComics;
+		modificationTime = 286327101.480418;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65B4D8AA10EA12E7003AD0C5 /* ReadComicController.m:169 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 650CAC4510E807A600978114 /* ReadComicController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 169;
+		location = KiwiComics;
+		modificationTime = 286327101.452195;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65B4D8AC10EA12E9003AD0C5 /* ReadComicController.m:227 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 650CAC4510E807A600978114 /* ReadComicController.m */;
+		functionName = "-loadImage";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 227;
+		location = KiwiComics;
+		modificationTime = 286327101.452613;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65B4D8B910EA13BA003AD0C5 /* MangaPageModel.m:46 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 650CAC4B10E80C0C00978114 /* MangaPageModel.m */;
+		functionName = "-fill";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 46;
+		location = KiwiComics;
+		modificationTime = 286327101.453077;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65B4D8BB10EA13BB003AD0C5 /* MangaPageModel.m:47 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 650CAC4B10E80C0C00978114 /* MangaPageModel.m */;
+		functionName = "-fill";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 47;
+		location = KiwiComics;
+		modificationTime = 286327101.453347;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65B4D8CA10EA1407003AD0C5 /* MangaPageModel.m:29 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 650CAC4B10E80C0C00978114 /* MangaPageModel.m */;
+		functionName = "-imageData";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 29;
+		location = KiwiComics;
+		modificationTime = 286327101.453624;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65B4D8D310EA1456003AD0C5 /* MangaPageModel.m:32 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 650CAC4B10E80C0C00978114 /* MangaPageModel.m */;
+		functionName = "-imageData";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 32;
+		location = KiwiComics;
+		modificationTime = 286327101.45395;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65B4D8D510EA1457003AD0C5 /* MangaPageModel.m:33 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 650CAC4B10E80C0C00978114 /* MangaPageModel.m */;
+		functionName = "-imageData";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 33;
+		location = KiwiComics;
+		modificationTime = 286327101.45427;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65B4D8DD10EA15DF003AD0C5 /* MangaSeriesModel.m:53 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AEFC10E526520088DC65 /* MangaSeriesModel.m */;
+		functionName = "+loadAllMangaNames";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 53;
+		location = KiwiComics;
+		modificationTime = 286327101.454589;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65B4D91E10EA192C003AD0C5 /* MangaChapterModel.m:49 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AEFF10E5297F0088DC65 /* MangaChapterModel.m */;
+		functionName = "-fill";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 49;
+		location = KiwiComics;
+		modificationTime = 286327101.454959;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65B4D92610EA194F003AD0C5 /* MangaChapterModel.m:28 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AEFF10E5297F0088DC65 /* MangaChapterModel.m */;
+		functionName = "-pages";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 28;
+		location = KiwiComics;
+		modificationTime = 286327101.455264;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65B4D92810EA1950003AD0C5 /* MangaChapterModel.m:29 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AEFF10E5297F0088DC65 /* MangaChapterModel.m */;
+		functionName = "-pages";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 29;
+		location = KiwiComics;
+		modificationTime = 286327101.455563;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65B4D93510EA19A0003AD0C5 /* ReadComicController.m:161 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 650CAC4510E807A600978114 /* ReadComicController.m */;
+		functionName = "-viewDidAppear:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 161;
+		location = KiwiComics;
+		modificationTime = 286327101.455893;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65B4D96E10EA1F74003AD0C5 /* MangaChapterModel.m:37 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AEFF10E5297F0088DC65 /* MangaChapterModel.m */;
+		functionName = "-fill";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 37;
+		location = KiwiComics;
+		modificationTime = 286327101.456304;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65B4D97510EA1F95003AD0C5 /* MangaChapterModel.m:36 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AEFF10E5297F0088DC65 /* MangaChapterModel.m */;
+		functionName = "-fill";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 36;
+		location = KiwiComics;
+		modificationTime = 286327101.456634;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65B4D98210EA204A003AD0C5 /* MangaChapterModel.m:58 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AEFF10E5297F0088DC65 /* MangaChapterModel.m */;
+		functionName = "+loadChapterUrlWithChapter:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 58;
+		location = KiwiComics;
+		modificationTime = 286327101.456973;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65B4D99710EA22B4003AD0C5 /* MangaChapterModel.m:44 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AEFF10E5297F0088DC65 /* MangaChapterModel.m */;
+		functionName = "-fill";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 44;
+		location = KiwiComics;
+		modificationTime = 286327101.457278;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65B4D99F10EA23C2003AD0C5 /* MangaSeriesModel.m:114 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AEFC10E526520088DC65 /* MangaSeriesModel.m */;
+		functionName = "-fill";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 114;
+		location = KiwiComics;
+		modificationTime = 286327101.457604;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65B4D9DB10EA2723003AD0C5 /* ReadComicController.m:228 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 650CAC4510E807A600978114 /* ReadComicController.m */;
+		functionName = "-loadImage";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 228;
+		location = KiwiComics;
+		modificationTime = 286327101.45793;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65B4DA3310EA327F003AD0C5 /* ReadComicController.m:240 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 650CAC4510E807A600978114 /* ReadComicController.m */;
+		functionName = "-didRotateFromInterfaceOrientation:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 240;
+		location = KiwiComics;
+		modificationTime = 286327101.458377;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65B4DA6B10EA3A30003AD0C5 /* ReadComicController.m:238 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 650CAC4510E807A600978114 /* ReadComicController.m */;
+		functionName = "-didRotateFromInterfaceOrientation:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 238;
+		location = KiwiComics;
+		modificationTime = 286327101.45876;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65B4DBA310EA6A6E003AD0C5 /* ReadComicController.m:227 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 650CAC4510E807A600978114 /* ReadComicController.m */;
+		functionName = "-loadImage";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 227;
+		location = KiwiComics;
+		modificationTime = 286327101.459136;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65B4DBA510EA6A6E003AD0C5 /* ReadComicController.m:227 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 650CAC4510E807A600978114 /* ReadComicController.m */;
+		functionName = "-loadImage";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 227;
+		location = KiwiComics;
+		modificationTime = 286327110.832157;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65B4DC1C10EA7960003AD0C5 /* ReadComicController.m:100 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 650CAC4510E807A600978114 /* ReadComicController.m */;
+		functionName = "-touchesBegan:withEvent:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 100;
+		location = KiwiComics;
+		modificationTime = 286327101.460027;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65B4DCD510EA9933003AD0C5 /* MangaSeriesController.m:161 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65630C5C10E6DE1A00E66C76 /* MangaSeriesController.m */;
+		functionName = "-viewWillAppear:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 161;
+		location = KiwiComics;
+		modificationTime = 286327101.460429;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65B4DD1410EA9F4F003AD0C5 /* ReadComicController.m:139 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 650CAC4510E807A600978114 /* ReadComicController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 139;
+		location = KiwiComics;
+		modificationTime = 286327101.460777;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65B4DD9410EAB92D003AD0C5 /* ComicChapter.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {880, 533}}";
+			sepNavSelRange = "{767, 0}";
+			sepNavVisRange = "{22, 971}";
+		};
+	};
+	65B4DD9510EAB92D003AD0C5 /* ComicChapter.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {880, 2470}}";
+			sepNavSelRange = "{1096, 0}";
+			sepNavVisRange = "{331, 1175}";
+			sepNavWindowFrame = "{{116, 93}, {967, 638}}";
+		};
+	};
+	65B4DDA210EABA89003AD0C5 /* ComicPage.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {880, 473}}";
+			sepNavSelRange = "{379, 0}";
+			sepNavVisRange = "{0, 505}";
+		};
+	};
+	65B4DDA310EABA89003AD0C5 /* ComicPage.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {880, 1079}}";
+			sepNavSelRange = "{1585, 3}";
+			sepNavVisRange = "{482, 834}";
+			sepNavWindowFrame = "{{73, 135}, {967, 638}}";
+		};
+	};
+	65B4DDA410EABA89003AD0C5 /* ComicSeries.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {880, 559}}";
+			sepNavSelRange = "{561, 0}";
+			sepNavVisRange = "{39, 1108}";
+		};
+	};
+	65B4DDA510EABA89003AD0C5 /* ComicSeries.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {880, 5317}}";
+			sepNavSelRange = "{11198, 0}";
+			sepNavVisRange = "{10554, 772}";
+		};
+	};
+	65C1ED2011022AC400A4B9F8 /* ReadComicController.m:140 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 650CAC4510E807A600978114 /* ReadComicController.m */;
+		functionName = "-toggleZoomWithPoint:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 140;
+		location = KiwiComics;
+		modificationTime = 286327101.483693;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65C1ED2411022ADA00A4B9F8 /* ReadComicController.m:140 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 650CAC4510E807A600978114 /* ReadComicController.m */;
+		functionName = "-toggleZoomWithPoint:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 140;
+		location = KiwiComics;
+		modificationTime = 286327101.484148;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65C8DFDF10ECAA83003F487A /* ComicPage.m:68 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65B4DDA310EABA89003AD0C5 /* ComicPage.m */;
+		functionName = "-loadImageUrl";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 68;
+		modificationTime = 286327101.475068;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	65C8DFE110ECAA86003F487A /* ComicPage.m:26 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65B4DDA310EABA89003AD0C5 /* ComicPage.m */;
+		functionName = "-loadImgData";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 26;
+		location = KiwiComics;
+		modificationTime = 286327101.4755;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65C8E01410ECB057003F487A /* ComicSeries.m:237 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65B4DDA510EABA89003AD0C5 /* ComicSeries.m */;
+		functionName = "-updateChapterList";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 237;
+		modificationTime = 286327101.475955;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	65C8E01610ECB05B003F487A /* ComicSeries.m:242 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65B4DDA510EABA89003AD0C5 /* ComicSeries.m */;
+		functionName = "-updateChapterList";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 242;
+		modificationTime = 286327101.476404;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	65D79FC410EB6DB700F8D973 /* ComicListItem.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {880, 473}}";
+			sepNavSelRange = "{48, 0}";
+			sepNavVisRange = "{0, 316}";
+		};
+	};
+	65D79FC510EB6DB700F8D973 /* ComicListItem.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {915, 1209}}";
+			sepNavSelRange = "{2397, 1}";
+			sepNavVisRange = "{1130, 1267}";
+			sepNavWindowFrame = "{{93, 114}, {967, 638}}";
+		};
+	};
+	65D7A01D10EB831100F8D973 /* ComicListItem.m:39 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65D79FC510EB6DB700F8D973 /* ComicListItem.m */;
+		functionName = "+loadWithMOC:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 39;
+		location = KiwiComics;
+		modificationTime = 286327101.46118;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65D7A03C10EB871400F8D973 /* MangaSeriesController.m:29 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65630C5C10E6DE1A00E66C76 /* MangaSeriesController.m */;
+		functionName = "-toggleFavorite:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 29;
+		location = KiwiComics;
+		modificationTime = 286327101.461551;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65D7A06C10EB8BF200F8D973 /* ComicListItem.m:86 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65D79FC510EB6DB700F8D973 /* ComicListItem.m */;
+		functionName = "+loadFromOneMangaWithMOC:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 86;
+		location = KiwiComics;
+		modificationTime = 286327101.46185;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65D7A06E10EB8BFE00F8D973 /* ComicListItem.m:40 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65D79FC510EB6DB700F8D973 /* ComicListItem.m */;
+		functionName = "+loadWithMOC:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 40;
+		location = KiwiComics;
+		modificationTime = 286327101.462176;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65D7A07010EB8BFF00F8D973 /* ComicListItem.m:41 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65D79FC510EB6DB700F8D973 /* ComicListItem.m */;
+		functionName = "+loadWithMOC:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 41;
+		modificationTime = 286327101.462492;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	65D7A07210EB8C0100F8D973 /* ComicListItem.m:42 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65D79FC510EB6DB700F8D973 /* ComicListItem.m */;
+		functionName = "+loadWithMOC:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 42;
+		location = KiwiComics;
+		modificationTime = 286327101.462822;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65D7A07410EB8C0400F8D973 /* ComicListItem.m:43 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65D79FC510EB6DB700F8D973 /* ComicListItem.m */;
+		functionName = "+loadWithMOC:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 43;
+		location = KiwiComics;
+		modificationTime = 286327101.463152;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65D7A07610EB8C0700F8D973 /* ComicListItem.m:50 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65D79FC510EB6DB700F8D973 /* ComicListItem.m */;
+		functionName = "+loadWithMOC:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 50;
+		location = KiwiComics;
+		modificationTime = 286327101.463502;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65D7A27210EBB9D200F8D973 /* ComicChapter.m:26 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65B4DD9510EAB92D003AD0C5 /* ComicChapter.m */;
+		functionName = "-loadPages";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 26;
+		location = KiwiComics;
+		modificationTime = 286327101.463869;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65D7A27410EBB9D300F8D973 /* ComicChapter.m:23 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65B4DD9510EAB92D003AD0C5 /* ComicChapter.m */;
+		functionName = "-loadPages";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 23;
+		location = KiwiComics;
+		modificationTime = 286327101.464197;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65D7A28810EBBA5A00F8D973 /* ComicChapter.m:29 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65B4DD9510EAB92D003AD0C5 /* ComicChapter.m */;
+		functionName = "-loadPages";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 29;
+		location = KiwiComics;
+		modificationTime = 286327101.464536;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65D7A29D10EBBB0B00F8D973 /* ComicSeries.m:105 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65B4DDA510EABA89003AD0C5 /* ComicSeries.m */;
+		functionName = "+downloadFromInternetIntoCacheWithLink:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 105;
+		location = KiwiComics;
+		modificationTime = 286327101.464882;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65D7A2B010EBBB7E00F8D973 /* ComicChapter.m:54 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65B4DD9510EAB92D003AD0C5 /* ComicChapter.m */;
+		functionName = "-downloadPagesFromInternet";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 54;
+		location = KiwiComics;
+		modificationTime = 286327101.465211;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65D7A2E610EBC6A100F8D973 /* ComicChapter.m:57 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65B4DD9510EAB92D003AD0C5 /* ComicChapter.m */;
+		functionName = "-downloadPagesFromInternet";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 57;
+		location = KiwiComics;
+		modificationTime = 286327101.465568;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65D7A32110EBC92C00F8D973 /* ReadComicController.m:152 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 650CAC4510E807A600978114 /* ReadComicController.m */;
+		functionName = "-viewDidAppear:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 152;
+		location = KiwiComics;
+		modificationTime = 286327101.465894;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65D7A32310EBC93300F8D973 /* ReadComicController.m:172 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 650CAC4510E807A600978114 /* ReadComicController.m */;
+		functionName = "-loadImage";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 172;
+		location = KiwiComics;
+		modificationTime = 286327101.466296;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65D7A33210EBC99400F8D973 /* ReadComicController.m:264 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 650CAC4510E807A600978114 /* ReadComicController.m */;
+		functionName = "-prefetchImage";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 264;
+		location = KiwiComics;
+		modificationTime = 286327101.466772;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65D7A39F10EBCF2600F8D973 /* ComicChapter.m:123 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65B4DD9510EAB92D003AD0C5 /* ComicChapter.m */;
+		functionName = "-pageAtIndex:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 123;
+		location = KiwiComics;
+		modificationTime = 286327101.467178;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65D7A3D210EBD00E00F8D973 /* ReadComicController.m:261 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 650CAC4510E807A600978114 /* ReadComicController.m */;
+		functionName = "-prefetchImage";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 261;
+		location = KiwiComics;
+		modificationTime = 286327101.467545;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65D7A42B10EBD65400F8D973 /* ComicListItem.m:91 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65D79FC510EB6DB700F8D973 /* ComicListItem.m */;
+		functionName = "+isFavoriteWithLink:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 91;
+		location = KiwiComics;
+		modificationTime = 286327101.467971;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65D7A50B10EBE69800F8D973 /* ComicListItem.m:52 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65D79FC510EB6DB700F8D973 /* ComicListItem.m */;
+		functionName = "+loadFavorites";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 52;
+		location = KiwiComics;
+		modificationTime = 286327101.468332;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65D7A50D10EBE69D00F8D973 /* ComicListItem.m:15 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65D79FC510EB6DB700F8D973 /* ComicListItem.m */;
+		functionName = "+loadCached";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 15;
+		location = KiwiComics;
+		modificationTime = 286327101.468677;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65D7A50F10EBE6A000F8D973 /* ComicListItem.m:60 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65D79FC510EB6DB700F8D973 /* ComicListItem.m */;
+		functionName = "+dowloadFromInternetIntoCache";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 60;
+		location = KiwiComics;
+		modificationTime = 286327101.469049;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65D7A51110EBE6A200F8D973 /* ComicListItem.m:91 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65D79FC510EB6DB700F8D973 /* ComicListItem.m */;
+		functionName = "+isFavoriteWithLink:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 91;
+		location = KiwiComics;
+		modificationTime = 286327101.469405;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65D7A51310EBE6A500F8D973 /* ComicListItem.m:91 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65D79FC510EB6DB700F8D973 /* ComicListItem.m */;
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 91;
+		location = KiwiComics;
+		modificationTime = 286327132.814466;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	65D7A51510EBE6A700F8D973 /* ComicListItem.m:91 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65D79FC510EB6DB700F8D973 /* ComicListItem.m */;
+		functionName = "+setFavorite:link:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 91;
+		location = KiwiComics;
+		modificationTime = 286327101.470148;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65D7A5E610EBFD2A00F8D973 /* ComicSeries.m:147 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65B4DDA510EABA89003AD0C5 /* ComicSeries.m */;
+		functionName = "+downloadFromInternetIntoCacheWithLink:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 147;
+		modificationTime = 286327101.470481;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65D7A60C10EC006F00F8D973 /* ComicSeries.m:122 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65B4DDA510EABA89003AD0C5 /* ComicSeries.m */;
+		functionName = "+downloadFromInternetIntoCacheWithLink:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 122;
+		modificationTime = 286327101.470835;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65D7A66D10EC136C00F8D973 /* FavoritesController.m:80 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AEF110E513240088DC65 /* FavoritesController.m */;
+		functionName = "-prefetchChapterWithLink:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 80;
+		location = KiwiComics;
+		modificationTime = 286327101.471211;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65D7A66F10EC136D00F8D973 /* FavoritesController.m:82 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AEF110E513240088DC65 /* FavoritesController.m */;
+		functionName = "-prefetchChapterWithLink:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 82;
+		location = KiwiComics;
+		modificationTime = 286327101.471577;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65D7A67110EC137100F8D973 /* FavoritesController.m:64 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AEF110E513240088DC65 /* FavoritesController.m */;
+		functionName = "-prefetchChapterWithLink:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 64;
+		location = KiwiComics;
+		modificationTime = 286327101.471959;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65D7A67310EC137600F8D973 /* FavoritesController.m:48 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AEF110E513240088DC65 /* FavoritesController.m */;
+		functionName = "-prefetchAll";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 48;
+		location = KiwiComics;
+		modificationTime = 286327101.472323;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65D7A6CD10EC189900F8D973 /* FavoritesController.m:88 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AEF110E513240088DC65 /* FavoritesController.m */;
+		functionName = "-prefetchChapterWithLink:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 88;
+		location = KiwiComics;
+		modificationTime = 286327101.472691;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65D7A6CF10EC189A00F8D973 /* FavoritesController.m:88 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AEF110E513240088DC65 /* FavoritesController.m */;
+		functionName = "-prefetchChapterWithLink:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 88;
+		location = KiwiComics;
+		modificationTime = 286327101.473078;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65D7A6D710EC18A400F8D973 /* FavoritesController.m:188 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AEF110E513240088DC65 /* FavoritesController.m */;
+		functionName = "-tableView:cellForRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 188;
+		location = KiwiComics;
+		modificationTime = 286327101.473484;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65D7A6D910EC18A700F8D973 /* FavoritesController.m:185 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AEF110E513240088DC65 /* FavoritesController.m */;
+		functionName = "-tableView:cellForRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 185;
+		location = KiwiComics;
+		modificationTime = 286327101.473904;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65D7A6DB10EC18A800F8D973 /* FavoritesController.m:181 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AEF110E513240088DC65 /* FavoritesController.m */;
+		functionName = "-tableView:cellForRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 181;
+		location = KiwiComics;
+		modificationTime = 286327101.474279;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65D7A74410EC223700F8D973 /* FavoritesController.m:204 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AEF110E513240088DC65 /* FavoritesController.m */;
+		functionName = "-tableView:didSelectRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 204;
+		location = KiwiComics;
+		modificationTime = 286327101.474706;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65E80B2911073D2F00C39A24 /* ComicImageView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {880, 473}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 769}";
+		};
+	};
+	65E80B2A11073D2F00C39A24 /* ComicImageView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {880, 1625}}";
+			sepNavSelRange = "{582, 0}";
+			sepNavVisRange = "{1348, 775}";
+		};
+	};
+	65E80B3D1107441B00C39A24 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 654CFB8C10F3887800D902ED /* icon.png */;
+	};
+	65E80B3E1107441B00C39A24 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 65C1ED4811025CA500A4B9F8 /* loading.jpg */;
+	};
+	65E80B5B1107451F00C39A24 /* SettingsController.m:25 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65110DC01107340F004248DD /* SettingsController.m */;
+		functionName = "-toggleAnimations:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 25;
+		location = KiwiComics;
+		modificationTime = 286327101.487497;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65E80B7C110747DD00C39A24 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 655ECDC910FCAE75005D7488 /* Root.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			PreferenceSpecifiers,
+			2,
+			Key,
+		);
+		name = /Users/daniel/Programming/KiwiComics/Settings.bundle/Root.plist;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	65E80BB411074F5400C39A24 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6586AF1B10E5379F0088DC65 /* TFHpple.m */;
+		name = "TFHpple.m: 88";
+		rLen = 13;
+		rLoc = 2443;
+		rType = 0;
+		vrLen = 1086;
+		vrLoc = 30;
+	};
+	65E80BE51107749300C39A24 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6586AF1E10E5379F0088DC65 /* XPathQuery.h */;
+		name = "XPathQuery.h: 9";
+		rLen = 0;
+		rLoc = 167;
+		rType = 0;
+		vrLen = 275;
+		vrLoc = 0;
+	};
+	65E80C0B110777B800C39A24 /* SearchController.m:89 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AF8610E540020088DC65 /* SearchController.m */;
+		functionName = "-refreshMangas";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 89;
+		location = KiwiComics;
+		modificationTime = 286327101.487908;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65E80C13110777C300C39A24 /* SearchController.m:100 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AF8610E540020088DC65 /* SearchController.m */;
+		functionName = "-reloadMangas";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 100;
+		location = KiwiComics;
+		modificationTime = 286327101.488306;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65E80C17110777D700C39A24 /* SettingsController.m:39 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65110DC01107340F004248DD /* SettingsController.m */;
+		functionName = "-refreshMangaList:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 39;
+		location = KiwiComics;
+		modificationTime = 286327101.488756;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65EFD4D410FBDD7700ADA677 /* FavoritesController.m:99 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AEF110E513240088DC65 /* FavoritesController.m */;
+		functionName = "-checkStatus";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 99;
+		location = KiwiComics;
+		modificationTime = 286327101.482884;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65EFD4D610FBDD7900ADA677 /* FavoritesController.m:98 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AEF110E513240088DC65 /* FavoritesController.m */;
+		functionName = "-checkStatus";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 98;
+		location = KiwiComics;
+		modificationTime = 286327101.483287;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65F2F048110F552500DCEAC0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 650158C310E7929F009036E8 /* Utils.m */;
+		name = "Utils.m: 73";
+		rLen = 0;
+		rLoc = 2178;
+		rType = 0;
+		vrLen = 1029;
+		vrLoc = 1444;
+	};
+	65FD28271104A58E00970DB2 /* ReadComicController.m:215 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 650CAC4510E807A600978114 /* ReadComicController.m */;
+		functionName = "-loadImage";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 215;
+		location = KiwiComics;
+		modificationTime = 286327101.484609;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65FD28291104A58F00970DB2 /* ReadComicController.m:214 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 650CAC4510E807A600978114 /* ReadComicController.m */;
+		functionName = "-loadImage";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 214;
+		modificationTime = 286327101.485221;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	65FD28D21104C08B00970DB2 /* ReadComicController.m:196 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 650CAC4510E807A600978114 /* ReadComicController.m */;
+		functionName = "-loadImage";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 196;
+		location = KiwiComics;
+		modificationTime = 286327101.485728;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65FD28F51104C56E00970DB2 /* ReadComicController.m:125 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 650CAC4510E807A600978114 /* ReadComicController.m */;
+		functionName = "-loadChapter";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 125;
+		location = KiwiComics;
+		modificationTime = 286327101.486187;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65FD28F81104C5CF00970DB2 /* MangaSeriesController.m:156 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65630C5C10E6DE1A00E66C76 /* MangaSeriesController.m */;
+		functionName = "-viewWillAppear:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 156;
+		location = KiwiComics;
+		modificationTime = 286327101.486672;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65FD28FA1104C5FB00970DB2 /* MangaSeriesController.m:94 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 65630C5C10E6DE1A00E66C76 /* MangaSeriesController.m */;
+		functionName = "-gotoChapterWithNr:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 94;
+		location = KiwiComics;
+		modificationTime = 286327101.487086;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	8D1107310486CEB800E47090 /* KiwiComics-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{70, 135}, {967, 638}}";
+		};
+	};
+}

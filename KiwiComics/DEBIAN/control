@@ -1,0 +1,29 @@
+Package: com.kiwicomics.kiwicomics
+Name: KiwiComics
+Version: 1.2.0-0
+Architecture: iphoneos-arm
+Depends: firmware (>=3.0.0), sqlite3-lib, libxml2-lib
+Description: Manga reader (online and offline). 
+ It features precaching, downloading of chapters for offline viewing, favorites and browsing 
+ OneMangas entire catalog. This program would not be possible without OneManga so support them.
+ 
+ Help
+ --------
+ Shake to exit to the chapter menu.
+ Tap on the sides of the iPhone screen to go to the next/previous page. Left for previous and right for the next page.
+ 
+ Settings
+ --------
+ *Double tap to zoom - Double tap with one finger leads to zooming in, double tap again to zoom out.
+ *Show animation - Whether to show animations when switching between pages. Better performance when turned off.
+ *Two fingers two taps to exit - Instead of shaking you might want to use two fingers and tap two times to show the
+ chapter menu.
+ 
+ Homepage
+ --------
+ http://kiwicomics.wordpress.com/
+Homepage: http://kiwicomics.wordpress.com/
+Maintainer: Digital Kiwi <digital.kiwi@ymail.com>
+Author: Digital Kiwi <digital.kiwi@ymail.com>
+Section: Entertainment
+Icon: file:///Applications/KiwiComics.app/icon.png

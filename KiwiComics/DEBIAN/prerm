@@ -1,0 +1,4 @@
+#! /bin/sh
+
+rm -f /var/mobile/Documents/appname.sqlite
+rm -f /var/mobile/Documents/KiwiComics.sqlite
