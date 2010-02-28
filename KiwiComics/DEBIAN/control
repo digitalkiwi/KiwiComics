@@ -1,11 +1,11 @@
 Package: com.kiwicomics.kiwicomics
 Name: KiwiComics
-Version: 1.2.0-0
+Version: 1.2.1-0
 Architecture: iphoneos-arm
-Depends: firmware (>=3.0.0), sqlite3-lib, libxml2-lib
 Description: Manga reader (online and offline). 
  It features precaching, downloading of chapters for offline viewing, favorites and browsing 
  OneMangas entire catalog. This program would not be possible without OneManga so support them.
+ It requires iPhone OS 3.0 or above.
  
  Help
  --------
