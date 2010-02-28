@@ -216,7 +216,7 @@
 						<key>_historyCapacity</key>
 						<integer>0</integer>
 						<key>bookmark</key>
-						<string>65EEEE57113AAB1F00A17DF7</string>
+						<string>65EEEE7B113AB06300A17DF7</string>
 						<key>history</key>
 						<array>
 							<string>65EE48C411276D1100582E2E</string>
@@ -322,14 +322,13 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>21</integer>
-									<integer>14</integer>
-									<integer>1</integer>
+									<integer>44</integer>
+									<integer>42</integer>
 									<integer>0</integer>
 								</array>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateVisibleRectKey</key>
-							<string>{{0, 359}, {255, 664}}</string>
+							<string>{{0, 0}, {255, 664}}</string>
 						</dict>
 						<key>PBXTopSmartGroupGIDs</key>
 						<array/>
@@ -364,7 +363,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>6586AEE310E510C00088DC65</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>ComicSeries.h</string>
+								<string>main.m</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -372,59 +371,59 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>6586AEE410E510C00088DC65</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>ComicSeries.h</string>
+										<string>main.m</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>65EEEE56113AAB1F00A17DF7</string>
+										<string>65EEEE7A113AB06300A17DF7</string>
 										<key>history</key>
 										<array>
 											<string>655ECDC610FCAE75005D7488</string>
 											<string>651E93FF1105C83A00AD8046</string>
 											<string>651E94111105C86200AD8046</string>
 											<string>65E80B7C110747DD00C39A24</string>
-											<string>653578211116194300E48B25</string>
-											<string>653578221116194300E48B25</string>
-											<string>653578231116194300E48B25</string>
 											<string>65C44B9F111E361F0016C15C</string>
-											<string>65E41136111F62C700ABFDFD</string>
-											<string>658A4DB51120AD8C00857457</string>
 											<string>65EEEE27113AAA8800A17DF7</string>
 											<string>65EEEE28113AAA8800A17DF7</string>
-											<string>65EEEE29113AAA8800A17DF7</string>
-											<string>65EEEE2A113AAA8800A17DF7</string>
-											<string>65EEEE2B113AAA8800A17DF7</string>
 											<string>65EEEE2C113AAA8800A17DF7</string>
-											<string>65EEEE2D113AAA8800A17DF7</string>
-											<string>65EEEE2E113AAA8800A17DF7</string>
-											<string>65EEEE2F113AAA8800A17DF7</string>
-											<string>65EEEE30113AAA8800A17DF7</string>
-											<string>65EEEE31113AAA8800A17DF7</string>
-											<string>65EEEE33113AAA8800A17DF7</string>
-											<string>65EEEE34113AAA8800A17DF7</string>
-											<string>65EEEE35113AAA8800A17DF7</string>
-											<string>65EEEE36113AAA8800A17DF7</string>
-											<string>65EEEE37113AAA8800A17DF7</string>
-											<string>65EEEE38113AAA8800A17DF7</string>
-											<string>65EEEE39113AAA8800A17DF7</string>
-											<string>65EEEE3A113AAA8800A17DF7</string>
 											<string>65EEEE3B113AAA8800A17DF7</string>
 											<string>65EEEE3C113AAA8800A17DF7</string>
 											<string>65EEEE3D113AAA8800A17DF7</string>
 											<string>65EEEE3E113AAA8800A17DF7</string>
-											<string>65EEEE3F113AAA8800A17DF7</string>
-											<string>65EEEE40113AAA8800A17DF7</string>
-											<string>65EEEE41113AAA8800A17DF7</string>
-											<string>65EEEE42113AAA8800A17DF7</string>
-											<string>65EEEE43113AAA8800A17DF7</string>
-											<string>65EEEE44113AAA8800A17DF7</string>
-											<string>65EEEE45113AAA8800A17DF7</string>
-											<string>65EEEE46113AAA8800A17DF7</string>
-											<string>65EEEE47113AAA8800A17DF7</string>
-											<string>65EEEE48113AAA8800A17DF7</string>
-											<string>65EEEE53113AAB1F00A17DF7</string>
-											<string>65EEEE54113AAB1F00A17DF7</string>
-											<string>65EEEE55113AAB1F00A17DF7</string>
+											<string>65EEEE58113AB06300A17DF7</string>
+											<string>65EEEE59113AB06300A17DF7</string>
+											<string>65EEEE5A113AB06300A17DF7</string>
+											<string>65EEEE5B113AB06300A17DF7</string>
+											<string>65EEEE5C113AB06300A17DF7</string>
+											<string>65EEEE5D113AB06300A17DF7</string>
+											<string>65EEEE5E113AB06300A17DF7</string>
+											<string>65EEEE5F113AB06300A17DF7</string>
+											<string>65EEEE60113AB06300A17DF7</string>
+											<string>65EEEE61113AB06300A17DF7</string>
+											<string>65EEEE62113AB06300A17DF7</string>
+											<string>65EEEE63113AB06300A17DF7</string>
+											<string>65EEEE64113AB06300A17DF7</string>
+											<string>65EEEE65113AB06300A17DF7</string>
+											<string>65EEEE66113AB06300A17DF7</string>
+											<string>65EEEE67113AB06300A17DF7</string>
+											<string>65EEEE68113AB06300A17DF7</string>
+											<string>65EEEE69113AB06300A17DF7</string>
+											<string>65EEEE6A113AB06300A17DF7</string>
+											<string>65EEEE6B113AB06300A17DF7</string>
+											<string>65EEEE6C113AB06300A17DF7</string>
+											<string>65EEEE6D113AB06300A17DF7</string>
+											<string>65EEEE6E113AB06300A17DF7</string>
+											<string>65EEEE6F113AB06300A17DF7</string>
+											<string>65EEEE70113AB06300A17DF7</string>
+											<string>65EEEE71113AB06300A17DF7</string>
+											<string>65EEEE72113AB06300A17DF7</string>
+											<string>65EEEE73113AB06300A17DF7</string>
+											<string>65EEEE74113AB06300A17DF7</string>
+											<string>65EEEE75113AB06300A17DF7</string>
+											<string>65EEEE76113AB06300A17DF7</string>
+											<string>65EEEE77113AB06300A17DF7</string>
+											<string>65EEEE78113AB06300A17DF7</string>
+											<string>65EEEE79113AB06300A17DF7</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>

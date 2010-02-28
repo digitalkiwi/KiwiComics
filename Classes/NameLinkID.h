@@ -1,6 +1,6 @@
 //
 //  NameLinkID.h
-//  KiwiComics
+//  KiwiComics - This work is licensed under the Creative Commons Attribution-Noncommercial-Share Alike 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/3.0/us/ 
 //
 
 // NameLinkID is used both in the SearchController and when communicating with DownloadThread instances.
