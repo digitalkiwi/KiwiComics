@@ -15,10 +15,13 @@
 @implementation SearchController
 @synthesize mangas;
 @synthesize filteredMangas;
+@synthesize isLoading;
 
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+	
+	[self setIsLoading: FALSE];
 	
 	[self setMangas:[NSMutableArray array]];
 	[self setFilteredMangas:[NSMutableArray array]];
@@ -28,8 +31,10 @@
 - (void)viewWillAppear:(BOOL)animated {
 	[super viewWillAppear:animated];
 
-	if ([[self mangas] count] == 0) {
+	if ([[self mangas] count] == 0 && ![self isLoading]) {
+		[self setIsLoading: TRUE];
 		[self loadMangasFromDB];
+		[self setIsLoading: FALSE];
 	}
 }
 
@@ -45,8 +50,7 @@
 	[self setFilteredMangas:[[NSMutableArray alloc] init]];
 	
 	for (ComicSeries *series in tmpmangas) {
-		// KiwiComics
-/* This work is licensed under the Creative Commons Attribution-Noncommercial-Share Alike 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/3.0/us/ */ *triple = [[NameLinkID alloc] init];
+		NameLinkID *triple = [[NameLinkID alloc] init];
 		[triple setName:[series name]];
 		[triple setLink:[series link]];
 		[triple setObjectID:[series objectID]];

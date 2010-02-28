@@ -26,6 +26,7 @@
 @synthesize currentPage;
 @synthesize nrOfPages;
 @synthesize nrOfChapters;
+@synthesize isLoading;
 
 
 
@@ -74,6 +75,7 @@
 									  UIViewAutoresizingFlexibleBottomMargin);
 	
 	[[self view] addSubview:activityWheel];
+	[self setIsLoading:FALSE];
 }
 
 - (CGFloat) zoomLevelFromIndex: (NSInteger) zoomIndex {
@@ -123,17 +125,26 @@
 }
 
 - (void) loadChapter {
-	ComicSeries *series = ((ComicSeries *) [[Utils databaseContext] objectWithID:seriesID]);
-	[self setChapter:[series chapterAtIndex:currentChapter]];
-	
-	if ([chapter loadPages] == FALSE) {
-		[self showMenu];
+	if (!isLoading) {
+		[self setIsLoading:TRUE];
+		
+		[self setPages:[[NSArray alloc] init]];
+		
+		ComicSeries *series = ((ComicSeries *) [[Utils databaseContext] objectWithID:seriesID]);
+		[self setChapter:[series chapterAtIndex:currentChapter]];
+		
+		if ([chapter loadPages] == FALSE) {
+			[self showMenu];
+		}
+		self.nrOfPages = [[chapter pages] count];
+		currentPage = 0;
+		
+		NSNumber* chapterRead = [NSNumber numberWithInteger:currentChapter];
+		[series setLatestChapterRead:chapterRead];
+		
+		[self setPages:[chapter pagesAll]];
+		[self setIsLoading:FALSE];
 	}
-	self.nrOfPages = [[chapter pages] count];
-	currentPage = 0;
-	[series setLatestChapterRead:[NSNumber numberWithInteger:currentChapter]];
-	
-	[self setPages:[chapter pagesAll]];
 }
 
 - (IBAction) showMenu
@@ -234,8 +245,8 @@
 		if (animate == TRUE) {
 			[UIView commitAnimations];
 		}
-		
-		[[self chapter] setLatestPageRead:[NSNumber numberWithInt:currentPage]];
+		NSNumber *nrCurrentPage = [NSNumber numberWithInt:currentPage];
+		[[self chapter] setLatestPageRead:nrCurrentPage];
 		[Utils saveDatabase];
 		[self performSelectorInBackground:@selector(prefetchImage) withObject:nil]; 
 		[self setIsZoomedIn: FALSE];
@@ -296,6 +307,9 @@
 }
 
 - (void)tapDetectingImageView:(ComicImageView *)view gotSingleTapAtWindowPoint:(CGPoint)tapPoint {
+	if (isLoading)
+		return;
+	
 	if (tapPoint.y < 100.0f) {
 		[self gotoPreviousPage];
 	} else if (tapPoint.y > 380.0f) {

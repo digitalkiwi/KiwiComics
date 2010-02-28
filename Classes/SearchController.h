@@ -16,10 +16,12 @@
 	IBOutlet UISearchDisplayController *searchDisplayController;
 	IBOutlet UITableView *mangaTableView;
 	IBOutlet MangaSeriesController *mangaSeriesController;
+	Boolean isLoading;
 }
 
 @property(retain) NSMutableArray *mangas; // Array of ComicListItems
 @property(retain) NSMutableArray *filteredMangas; // Array of filtered ComicListItems based on the search terms
+@property Boolean isLoading; // Whether the list is currently being updated.
 
 - (void) loadMangasFromDB; // Load the ComicListItems from the database and populate the mangas array.
 @end

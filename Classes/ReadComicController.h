@@ -22,6 +22,7 @@
 	Boolean animate;
 	Boolean doubleTapToZoom;
 	Boolean isZoomedIn;
+	Boolean isLoading;
 	CGFloat zoomLevel;
 	
 	NSInteger nrOfChapters;
@@ -36,6 +37,7 @@
 @property(nonatomic, retain) ComicChapter *chapter;
 @property(retain) NSArray *pages;
 @property Boolean animate;
+@property Boolean isLoading;
 
 @property NSInteger currentPage;
 @property(nonatomic) NSInteger currentChapter;

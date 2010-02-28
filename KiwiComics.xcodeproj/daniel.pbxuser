@@ -30,36 +30,36 @@
 		};
 	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
-		activeBuildConfigurationName = Release;
+		activeBuildConfigurationName = Debug;
 		activeExecutable = 6586AEDD10E510A90088DC65 /* KiwiComics */;
-		activeSDKPreference = iphonesimulator3.0;
+		activeSDKPreference = iphonesimulator3.1.2;
 		activeTarget = 1D6058900D05DD3D006BFB54 /* KiwiComics */;
 		addToTargets = (
 			1D6058900D05DD3D006BFB54 /* KiwiComics */,
 		);
 		breakpoints = (
 			6586AF4B10E53BAA0088DC65 /* MangaSeriesModel.m:38 */,
-			6586AFA010E544860088DC65 /* SearchController.m:116 */,
-			6586AFA210E544880088DC65 /* SearchController.m:116 */,
-			6586B03110E5663A0088DC65 /* SearchController.m:110 */,
-			6586B03310E5663D0088DC65 /* SearchController.m:120 */,
-			6586B03B10E566AC0088DC65 /* SearchController.m:109 */,
-			6586B04010E5672B0088DC65 /* SearchController.m:104 */,
-			6586B04210E5672E0088DC65 /* SearchController.m:107 */,
-			6586B04410E567310088DC65 /* SearchController.m:112 */,
-			6586B04D10E5677A0088DC65 /* SearchController.m:105 */,
-			6586B04F10E5677C0088DC65 /* SearchController.m:106 */,
-			6586B08810E5729C0088DC65 /* SearchController.m:136 */,
-			6586B08A10E572A70088DC65 /* SearchController.m:140 */,
-			6586B09010E572BC0088DC65 /* SearchController.m:117 */,
+			6586AFA010E544860088DC65 /* SearchController.m:120 */,
+			6586AFA210E544880088DC65 /* SearchController.m:120 */,
+			6586B03110E5663A0088DC65 /* SearchController.m:114 */,
+			6586B03310E5663D0088DC65 /* SearchController.m:124 */,
+			6586B03B10E566AC0088DC65 /* SearchController.m:113 */,
+			6586B04010E5672B0088DC65 /* SearchController.m:108 */,
+			6586B04210E5672E0088DC65 /* SearchController.m:111 */,
+			6586B04410E567310088DC65 /* SearchController.m:116 */,
+			6586B04D10E5677A0088DC65 /* SearchController.m:109 */,
+			6586B04F10E5677C0088DC65 /* SearchController.m:110 */,
+			6586B08810E5729C0088DC65 /* SearchController.m:140 */,
+			6586B08A10E572A70088DC65 /* SearchController.m:144 */,
+			6586B09010E572BC0088DC65 /* SearchController.m:121 */,
 			65630B7610E6C41C00E66C76 /* MangaSeriesModel.m:73 */,
 			65630B7810E6C42000E66C76 /* MangaSeriesModel.m:119 */,
 			65630B7A10E6C42300E66C76 /* MangaSeriesModel.m:103 */,
 			65630C1010E6CE2100E66C76 /* MangaSeriesModel.m:103 */,
 			65630C3E10E6D25600E66C76 /* MangaSeriesModel.m:103 */,
 			65630C5510E6D3DD00E66C76 /* MangaSeriesModel.m:126 */,
-			65630C7C10E6E84F00E66C76 /* SearchController.m:140 */,
-			65630C7E10E6E85100E66C76 /* SearchController.m:137 */,
+			65630C7C10E6E84F00E66C76 /* SearchController.m:144 */,
+			65630C7E10E6E85100E66C76 /* SearchController.m:141 */,
 			65630CAD10E6EFF100E66C76 /* MangaSeriesController.m:231 */,
 			65630CAF10E6EFF300E66C76 /* MangaSeriesController.m:216 */,
 			6501587B10E78955009036E8 /* MangaSeriesController.m:172 */,
@@ -68,8 +68,8 @@
 			6559704D10E96D0900C4A19E /* MangaSeriesModel.m:54 */,
 			6559705710E96D2500C4A19E /* MangaSeriesModel.m:72 */,
 			6559705910E96D2700C4A19E /* MangaSeriesModel.m:70 */,
-			65B4D8AA10EA12E7003AD0C5 /* ReadComicController.m:188 */,
-			65B4D8AC10EA12E9003AD0C5 /* ReadComicController.m:244 */,
+			65B4D8AA10EA12E7003AD0C5 /* ReadComicController.m:199 */,
+			65B4D8AC10EA12E9003AD0C5 /* ReadComicController.m:255 */,
 			65B4D8B910EA13BA003AD0C5 /* MangaPageModel.m:46 */,
 			65B4D8BB10EA13BB003AD0C5 /* MangaPageModel.m:47 */,
 			65B4D8CA10EA1407003AD0C5 /* MangaPageModel.m:29 */,
@@ -79,20 +79,20 @@
 			65B4D91E10EA192C003AD0C5 /* MangaChapterModel.m:49 */,
 			65B4D92610EA194F003AD0C5 /* MangaChapterModel.m:28 */,
 			65B4D92810EA1950003AD0C5 /* MangaChapterModel.m:29 */,
-			65B4D93510EA19A0003AD0C5 /* ReadComicController.m:167 */,
+			65B4D93510EA19A0003AD0C5 /* ReadComicController.m:178 */,
 			65B4D96E10EA1F74003AD0C5 /* MangaChapterModel.m:37 */,
 			65B4D97510EA1F95003AD0C5 /* MangaChapterModel.m:36 */,
 			65B4D98210EA204A003AD0C5 /* MangaChapterModel.m:58 */,
 			65B4D99710EA22B4003AD0C5 /* MangaChapterModel.m:44 */,
 			65B4D99F10EA23C2003AD0C5 /* MangaSeriesModel.m:114 */,
-			65B4D9DB10EA2723003AD0C5 /* ReadComicController.m:245 */,
-			65B4DA3310EA327F003AD0C5 /* ReadComicController.m:254 */,
-			65B4DA6B10EA3A30003AD0C5 /* ReadComicController.m:254 */,
-			65B4DBA310EA6A6E003AD0C5 /* ReadComicController.m:244 */,
-			65B4DBA510EA6A6E003AD0C5 /* ReadComicController.m:244 */,
-			65B4DC1C10EA7960003AD0C5 /* ReadComicController.m:104 */,
+			65B4D9DB10EA2723003AD0C5 /* ReadComicController.m:256 */,
+			65B4DA3310EA327F003AD0C5 /* ReadComicController.m:265 */,
+			65B4DA6B10EA3A30003AD0C5 /* ReadComicController.m:265 */,
+			65B4DBA310EA6A6E003AD0C5 /* ReadComicController.m:255 */,
+			65B4DBA510EA6A6E003AD0C5 /* ReadComicController.m:255 */,
+			65B4DC1C10EA7960003AD0C5 /* ReadComicController.m:106 */,
 			65B4DCD510EA9933003AD0C5 /* MangaSeriesController.m:187 */,
-			65B4DD1410EA9F4F003AD0C5 /* ReadComicController.m:145 */,
+			65B4DD1410EA9F4F003AD0C5 /* ReadComicController.m:156 */,
 			65D7A01D10EB831100F8D973 /* ComicListItem.m:39 */,
 			65D7A03C10EB871400F8D973 /* MangaSeriesController.m:32 */,
 			65D7A06C10EB8BF200F8D973 /* ComicListItem.m:86 */,
@@ -107,11 +107,11 @@
 			65D7A29D10EBBB0B00F8D973 /* ComicSeries.m:105 */,
 			65D7A2B010EBBB7E00F8D973 /* ComicChapter.m:49 */,
 			65D7A2E610EBC6A100F8D973 /* ComicChapter.m:49 */,
-			65D7A32110EBC92C00F8D973 /* ReadComicController.m:157 */,
-			65D7A32310EBC93300F8D973 /* ReadComicController.m:191 */,
-			65D7A33210EBC99400F8D973 /* ReadComicController.m:279 */,
+			65D7A32110EBC92C00F8D973 /* ReadComicController.m:168 */,
+			65D7A32310EBC93300F8D973 /* ReadComicController.m:202 */,
+			65D7A33210EBC99400F8D973 /* ReadComicController.m:290 */,
 			65D7A39F10EBCF2600F8D973 /* ComicChapter.m:145 */,
-			65D7A3D210EBD00E00F8D973 /* ReadComicController.m:275 */,
+			65D7A3D210EBD00E00F8D973 /* ReadComicController.m:286 */,
 			65D7A42B10EBD65400F8D973 /* ComicListItem.m:91 */,
 			65D7A50B10EBE69800F8D973 /* ComicListItem.m:52 */,
 			65D7A50D10EBE69D00F8D973 /* ComicListItem.m:15 */,
@@ -137,10 +137,10 @@
 			65C8E01610ECB05B003F487A /* ComicSeries.m:241 */,
 			6597B47810ED1B94002B7FEA /* ComicSeries.m:139 */,
 			6597B49710ED1E7E002B7FEA /* ComicSeries.m:144 */,
-			6597B55410ED33A4002B7FEA /* ReadComicController.m:193 */,
-			6597B55610ED33B1002B7FEA /* ReadComicController.m:161 */,
-			6597B55D10ED33D0002B7FEA /* ReadComicController.m:160 */,
-			6597B55F10ED33D7002B7FEA /* ReadComicController.m:128 */,
+			6597B55410ED33A4002B7FEA /* ReadComicController.m:204 */,
+			6597B55610ED33B1002B7FEA /* ReadComicController.m:172 */,
+			6597B55D10ED33D0002B7FEA /* ReadComicController.m:171 */,
+			6597B55F10ED33D7002B7FEA /* ReadComicController.m:135 */,
 			6597B56710ED3412002B7FEA /* ComicChapter.m:49 */,
 			6597B65B10ED4DAA002B7FEA /* MangaSeriesController.m:66 */,
 			6597B67A10ED58D5002B7FEA /* MangaSeriesController.m:109 */,
@@ -151,17 +151,17 @@
 			651909C810F6926B00972826 /* MangaSeriesController.m:88 */,
 			65EFD4D410FBDD7700ADA677 /* FavoritesController.m:42 */,
 			65EFD4D610FBDD7900ADA677 /* FavoritesController.m:41 */,
-			65C1ED2011022AC400A4B9F8 /* ReadComicController.m:145 */,
-			65C1ED2411022ADA00A4B9F8 /* ReadComicController.m:145 */,
-			65FD28271104A58E00970DB2 /* ReadComicController.m:229 */,
-			65FD28291104A58F00970DB2 /* ReadComicController.m:228 */,
-			65FD28D21104C08B00970DB2 /* ReadComicController.m:216 */,
-			65FD28F51104C56E00970DB2 /* ReadComicController.m:134 */,
+			65C1ED2011022AC400A4B9F8 /* ReadComicController.m:156 */,
+			65C1ED2411022ADA00A4B9F8 /* ReadComicController.m:156 */,
+			65FD28271104A58E00970DB2 /* ReadComicController.m:240 */,
+			65FD28291104A58F00970DB2 /* ReadComicController.m:239 */,
+			65FD28D21104C08B00970DB2 /* ReadComicController.m:227 */,
+			65FD28F51104C56E00970DB2 /* ReadComicController.m:143 */,
 			65FD28F81104C5CF00970DB2 /* MangaSeriesController.m:182 */,
 			65FD28FA1104C5FB00970DB2 /* MangaSeriesController.m:103 */,
 			65E80B5B1107451F00C39A24 /* SettingsController.m:23 */,
-			65E80C0B110777B800C39A24 /* SearchController.m:67 */,
-			65E80C13110777C300C39A24 /* SearchController.m:67 */,
+			65E80C0B110777B800C39A24 /* SearchController.m:71 */,
+			65E80C13110777C300C39A24 /* SearchController.m:71 */,
 			65E80C17110777D700C39A24 /* SettingsController.m:37 */,
 			6532D91B110C79980066FCED /* MangaSeriesController.m:53 */,
 			6532D928110C79FE0066FCED /* MangaSeriesController.m:55 */,
@@ -174,7 +174,7 @@
 			6551FC32110F4CF4000E5420 /* ComicSeries.m:388 */,
 			6551FC48110F4EA3000E5420 /* MangaSeriesController.m:188 */,
 			659CF41811119F2700624591 /* ComicChapter.m:49 */,
-			65F8CB6E111462A7003F4F70 /* ReadComicController.m:236 */,
+			65F8CB6E111462A7003F4F70 /* ReadComicController.m:247 */,
 			6535786511162E0C00E48B25 /* ComicPage.m:66 */,
 			653579231116428200E48B25 /* FavoritesController.m:47 */,
 			653579251116429200E48B25 /* FavoritesController.m:51 */,
@@ -189,17 +189,17 @@
 			65E40F6B111F3C3500ABFDFD /* ComicSeries.m:379 */,
 			65E40F72111F3C6200ABFDFD /* ComicSeries.m:382 */,
 			65E40F76111F3C7300ABFDFD /* ComicSeries.m:386 */,
-			65E4114C111F642500ABFDFD /* SearchController.m:78 */,
+			65E4114C111F642500ABFDFD /* SearchController.m:82 */,
 			65E4114E111F644600ABFDFD /* ComicListItem.m:81 */,
 			65E41156111F645100ABFDFD /* ComicListItem.m:80 */,
 			65E41158111F645B00ABFDFD /* ComicListItem.m:70 */,
 			65E4115A111F645D00ABFDFD /* ComicListItem.m:69 */,
-			658A4DE11120B07200857457 /* ReadComicController.m:148 */,
+			658A4DE11120B07200857457 /* ReadComicController.m:159 */,
 			658A4DFB1120B11800857457 /* MangaSeriesController.m:134 */,
-			658A4E001120B12C00857457 /* ReadComicController.m:166 */,
+			658A4E001120B12C00857457 /* ReadComicController.m:177 */,
 			658A4E141120B26500857457 /* MangaSeriesController.m:171 */,
 			658A4E161120B28D00857457 /* MangaSeriesController.m:192 */,
-			658A4E551120B79F00857457 /* ReadComicController.m:170 */,
+			658A4E551120B79F00857457 /* ReadComicController.m:181 */,
 		);
 		codeSenseManager = 6586AEEE10E510C00088DC65 /* Code sense */;
 		executables = (
@@ -212,11 +212,11 @@
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
 					20,
-					295,
+					203,
 					20,
-					195,
-					195,
-					127,
+					203,
+					203,
+					203,
 					20,
 				);
 				PBXFileTableDataSourceColumnsKey = (
@@ -266,16 +266,30 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 289050832;
-			PBXWorkspaceStateSaveDate = 289050832;
+			PBXPerProjectTemplateStateSaveDate = 289083068;
+			PBXWorkspaceStateSaveDate = 289083068;
 		};
 		perUserProjectItems = {
 			651E93FF1105C83A00AD8046 /* PBXTextBookmark */ = 651E93FF1105C83A00AD8046 /* PBXTextBookmark */;
 			651E94111105C86200AD8046 /* PlistBookmark */ = 651E94111105C86200AD8046 /* PlistBookmark */;
 			655ECDC610FCAE75005D7488 /* PBXTextBookmark */ = 655ECDC610FCAE75005D7488 /* PBXTextBookmark */;
+			65BBCA32113B0EFE007FA307 /* PBXTextBookmark */ = 65BBCA32113B0EFE007FA307 /* PBXTextBookmark */;
+			65BBCA3F113B1174007FA307 /* PBXTextBookmark */ = 65BBCA3F113B1174007FA307 /* PBXTextBookmark */;
+			65BBCA40113B1174007FA307 /* PBXTextBookmark */ = 65BBCA40113B1174007FA307 /* PBXTextBookmark */;
+			65BBCA41113B1174007FA307 /* PBXTextBookmark */ = 65BBCA41113B1174007FA307 /* PBXTextBookmark */;
+			65BBCA42113B1174007FA307 /* PBXTextBookmark */ = 65BBCA42113B1174007FA307 /* PBXTextBookmark */;
+			65BBCA44113B1174007FA307 /* PBXTextBookmark */ = 65BBCA44113B1174007FA307 /* PBXTextBookmark */;
+			65BBCA46113B1174007FA307 /* PBXTextBookmark */ = 65BBCA46113B1174007FA307 /* PBXTextBookmark */;
+			65BBCA4F113B1521007FA307 /* PBXTextBookmark */ = 65BBCA4F113B1521007FA307 /* PBXTextBookmark */;
+			65BBCA50113B1521007FA307 /* PBXTextBookmark */ = 65BBCA50113B1521007FA307 /* PBXTextBookmark */;
+			65BBCA8C113B1A15007FA307 /* PBXTextBookmark */ = 65BBCA8C113B1A15007FA307 /* PBXTextBookmark */;
+			65BBCAC6113B1E05007FA307 /* PBXTextBookmark */ = 65BBCAC6113B1E05007FA307 /* PBXTextBookmark */;
+			65BBCAC7113B1E05007FA307 /* PBXTextBookmark */ = 65BBCAC7113B1E05007FA307 /* PBXTextBookmark */;
+			65BBCAC8113B1E05007FA307 /* PBXTextBookmark */ = 65BBCAC8113B1E05007FA307 /* PBXTextBookmark */;
+			65BBCAD2113B223F007FA307 /* PBXTextBookmark */ = 65BBCAD2113B223F007FA307 /* PBXTextBookmark */;
+			65BBCAD3113B223F007FA307 /* PBXTextBookmark */ = 65BBCAD3113B223F007FA307 /* PBXTextBookmark */;
 			65C44B9F111E361F0016C15C /* PBXTextBookmark */ = 65C44B9F111E361F0016C15C /* PBXTextBookmark */;
 			65E80B7C110747DD00C39A24 /* PlistBookmark */ = 65E80B7C110747DD00C39A24 /* PlistBookmark */;
-			65EE48C411276D1100582E2E /* PBXTextBookmark */ = 65EE48C411276D1100582E2E /* PBXTextBookmark */;
 			65EEEE27113AAA8800A17DF7 /* XDModelBookmark */ = 65EEEE27113AAA8800A17DF7 /* XDModelBookmark */;
 			65EEEE28113AAA8800A17DF7 /* PBXTextBookmark */ = 65EEEE28113AAA8800A17DF7 /* PBXTextBookmark */;
 			65EEEE2C113AAA8800A17DF7 /* PBXTextBookmark */ = 65EEEE2C113AAA8800A17DF7 /* PBXTextBookmark */;
@@ -287,37 +301,23 @@
 			65EEEE59113AB06300A17DF7 /* PBXBookmark */ = 65EEEE59113AB06300A17DF7 /* PBXBookmark */;
 			65EEEE5A113AB06300A17DF7 /* PBXBookmark */ = 65EEEE5A113AB06300A17DF7 /* PBXBookmark */;
 			65EEEE5B113AB06300A17DF7 /* PBXBookmark */ = 65EEEE5B113AB06300A17DF7 /* PBXBookmark */;
-			65EEEE5C113AB06300A17DF7 /* PBXTextBookmark */ = 65EEEE5C113AB06300A17DF7 /* PBXTextBookmark */;
 			65EEEE5D113AB06300A17DF7 /* PBXTextBookmark */ = 65EEEE5D113AB06300A17DF7 /* PBXTextBookmark */;
 			65EEEE5E113AB06300A17DF7 /* PBXTextBookmark */ = 65EEEE5E113AB06300A17DF7 /* PBXTextBookmark */;
 			65EEEE5F113AB06300A17DF7 /* PBXTextBookmark */ = 65EEEE5F113AB06300A17DF7 /* PBXTextBookmark */;
-			65EEEE60113AB06300A17DF7 /* PBXTextBookmark */ = 65EEEE60113AB06300A17DF7 /* PBXTextBookmark */;
-			65EEEE61113AB06300A17DF7 /* PBXTextBookmark */ = 65EEEE61113AB06300A17DF7 /* PBXTextBookmark */;
 			65EEEE62113AB06300A17DF7 /* PBXTextBookmark */ = 65EEEE62113AB06300A17DF7 /* PBXTextBookmark */;
-			65EEEE63113AB06300A17DF7 /* PBXTextBookmark */ = 65EEEE63113AB06300A17DF7 /* PBXTextBookmark */;
-			65EEEE64113AB06300A17DF7 /* PBXTextBookmark */ = 65EEEE64113AB06300A17DF7 /* PBXTextBookmark */;
 			65EEEE65113AB06300A17DF7 /* PBXTextBookmark */ = 65EEEE65113AB06300A17DF7 /* PBXTextBookmark */;
 			65EEEE66113AB06300A17DF7 /* PBXTextBookmark */ = 65EEEE66113AB06300A17DF7 /* PBXTextBookmark */;
 			65EEEE67113AB06300A17DF7 /* PBXTextBookmark */ = 65EEEE67113AB06300A17DF7 /* PBXTextBookmark */;
-			65EEEE68113AB06300A17DF7 /* PBXTextBookmark */ = 65EEEE68113AB06300A17DF7 /* PBXTextBookmark */;
 			65EEEE69113AB06300A17DF7 /* PBXTextBookmark */ = 65EEEE69113AB06300A17DF7 /* PBXTextBookmark */;
 			65EEEE6A113AB06300A17DF7 /* PBXTextBookmark */ = 65EEEE6A113AB06300A17DF7 /* PBXTextBookmark */;
-			65EEEE6B113AB06300A17DF7 /* PBXTextBookmark */ = 65EEEE6B113AB06300A17DF7 /* PBXTextBookmark */;
 			65EEEE6C113AB06300A17DF7 /* PBXTextBookmark */ = 65EEEE6C113AB06300A17DF7 /* PBXTextBookmark */;
 			65EEEE6D113AB06300A17DF7 /* PBXTextBookmark */ = 65EEEE6D113AB06300A17DF7 /* PBXTextBookmark */;
 			65EEEE6E113AB06300A17DF7 /* PBXTextBookmark */ = 65EEEE6E113AB06300A17DF7 /* PBXTextBookmark */;
 			65EEEE6F113AB06300A17DF7 /* PBXTextBookmark */ = 65EEEE6F113AB06300A17DF7 /* PBXTextBookmark */;
 			65EEEE70113AB06300A17DF7 /* PBXTextBookmark */ = 65EEEE70113AB06300A17DF7 /* PBXTextBookmark */;
-			65EEEE71113AB06300A17DF7 /* PBXTextBookmark */ = 65EEEE71113AB06300A17DF7 /* PBXTextBookmark */;
-			65EEEE72113AB06300A17DF7 /* PBXTextBookmark */ = 65EEEE72113AB06300A17DF7 /* PBXTextBookmark */;
 			65EEEE73113AB06300A17DF7 /* PBXTextBookmark */ = 65EEEE73113AB06300A17DF7 /* PBXTextBookmark */;
-			65EEEE74113AB06300A17DF7 /* PBXTextBookmark */ = 65EEEE74113AB06300A17DF7 /* PBXTextBookmark */;
-			65EEEE75113AB06300A17DF7 /* PBXTextBookmark */ = 65EEEE75113AB06300A17DF7 /* PBXTextBookmark */;
-			65EEEE76113AB06300A17DF7 /* PBXTextBookmark */ = 65EEEE76113AB06300A17DF7 /* PBXTextBookmark */;
 			65EEEE77113AB06300A17DF7 /* PBXTextBookmark */ = 65EEEE77113AB06300A17DF7 /* PBXTextBookmark */;
 			65EEEE78113AB06300A17DF7 /* PBXTextBookmark */ = 65EEEE78113AB06300A17DF7 /* PBXTextBookmark */;
-			65EEEE79113AB06300A17DF7 /* PBXTextBookmark */ = 65EEEE79113AB06300A17DF7 /* PBXTextBookmark */;
-			65EEEE7C113AB88600A17DF7 /* PBXTextBookmark */ = 65EEEE7C113AB88600A17DF7 /* PBXTextBookmark */;
 			65EEEE7D113AB88600A17DF7 /* PBXTextBookmark */ = 65EEEE7D113AB88600A17DF7 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 6586AEED10E510C00088DC65 /* Source Control */;
@@ -326,7 +326,7 @@
 	};
 	29B97316FDCFA39411CA2CEA /* main.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1566, 341}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1566, 357}}";
 			sepNavSelRange = "{466, 0}";
 			sepNavVisRange = "{0, 466}";
 		};
@@ -345,7 +345,7 @@
 		ignoreCount = 0;
 		lineNumber = 172;
 		location = KiwiComics;
-		modificationTime = 287356856.389917;
+		modificationTime = 289087001.042516;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -358,9 +358,9 @@
 	};
 	650158C310E7929F009036E8 /* Utils.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1566, 1300}}";
-			sepNavSelRange = "{705, 0}";
-			sepNavVisRange = "{0, 776}";
+			sepNavIntBoundsRect = "{{0, 0}, {1566, 1222}}";
+			sepNavSelRange = "{1527, 0}";
+			sepNavVisRange = "{1388, 557}";
 			sepNavWindowFrame = "{{75, 135}, {967, 638}}";
 		};
 	};
@@ -378,7 +378,7 @@
 		ignoreCount = 0;
 		lineNumber = 96;
 		location = KiwiComics;
-		modificationTime = 287356856.390249;
+		modificationTime = 289087001.042951;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -396,7 +396,7 @@
 		ignoreCount = 0;
 		lineNumber = 104;
 		location = KiwiComics;
-		modificationTime = 287356856.3905751;
+		modificationTime = 289087001.043366;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -426,7 +426,7 @@
 					chosenTableWidths = (
 						103.000000,
 						49.000000,
-						92.080078,
+						100.080078,
 					);
 				};
 				UIContextForLayoutManager = {
@@ -436,8 +436,8 @@
 						_percentageOfCollapsedView = 0;
 						isCollapsed = yes;
 						sizes = (
-							"{{0, 0}, {612, 218}}",
-							"{{617, 0}, {322, 218}}",
+							"{{0, 0}, {630, 220}}",
+							"{{635, 0}, {332, 220}}",
 						);
 					};
 					diagramSplitGeometry = {
@@ -446,8 +446,8 @@
 						_percentageOfCollapsedView = 0;
 						isCollapsed = yes;
 						sizes = (
-							"{{0, 0}, {939, 220}}",
-							"{{0, 225}, {939, 156}}",
+							"{{0, 0}, {967, 220}}",
+							"{{0, 225}, {967, 440}}",
 						);
 					};
 					tableSplitGeometry = {
@@ -456,8 +456,8 @@
 						_percentageOfCollapsedView = 0;
 						isCollapsed = yes;
 						sizes = (
-							"{{0, 0}, {269, 218}}",
-							"{{274, 0}, {336, 218}}",
+							"{{0, 0}, {277, 220}}",
+							"{{282, 0}, {346, 220}}",
 						);
 					};
 				};
@@ -554,24 +554,24 @@
 					);
 				};
 				"xdesign model browser state key - shown/hidden" = 1;
-				"xdesign model diagram view visible rect key" = "{{-113, 0}, {924, 141}}";
+				"xdesign model diagram view visible rect key" = "{{-127, -5}, {952, 425}}";
 			};
 			sepNavWindowFrame = "{{116, 0}, {967, 778}}";
 		};
 	};
 	650CAC4410E807A600978114 /* ReadComicController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1566, 780}}";
-			sepNavSelRange = "{1101, 0}";
-			sepNavVisRange = "{538, 645}";
+			sepNavIntBoundsRect = "{{0, 0}, {1566, 845}}";
+			sepNavSelRange = "{1197, 0}";
+			sepNavVisRange = "{675, 634}";
 			sepNavWindowFrame = "{{75, 135}, {967, 638}}";
 		};
 	};
 	650CAC4510E807A600978114 /* ReadComicController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1013, 4381}}";
-			sepNavSelRange = "{8529, 0}";
-			sepNavVisRange = "{7846, 838}";
+			sepNavIntBoundsRect = "{{0, 0}, {880, 4888}}";
+			sepNavSelRange = "{4424, 0}";
+			sepNavVisRange = "{4156, 890}";
 			sepNavWindowFrame = "{{163, 51}, {967, 638}}";
 		};
 	};
@@ -585,7 +585,7 @@
 	};
 	65110DBF1107340F004248DD /* SettingsController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {908, 341}}";
+			sepNavIntBoundsRect = "{{0, 0}, {908, 357}}";
 			sepNavSelRange = "{861, 0}";
 			sepNavVisRange = "{0, 862}";
 		};
@@ -611,7 +611,7 @@
 		ignoreCount = 0;
 		lineNumber = 88;
 		location = KiwiComics;
-		modificationTime = 287356856.427238;
+		modificationTime = 289087001.085991;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -651,7 +651,7 @@
 		ignoreCount = 0;
 		lineNumber = 53;
 		location = KiwiComics;
-		modificationTime = 287356856.443848;
+		modificationTime = 289087001.093313;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -668,7 +668,7 @@
 		hitCount = 0;
 		ignoreCount = 0;
 		lineNumber = 55;
-		modificationTime = 287356856.444323;
+		modificationTime = 289087001.093788;
 		originalNumberOfMultipleMatches = 0;
 		state = 2;
 	};
@@ -700,7 +700,7 @@
 		hitCount = 0;
 		ignoreCount = 0;
 		lineNumber = 66;
-		modificationTime = 287356856.449466;
+		modificationTime = 289087001.098739;
 		originalNumberOfMultipleMatches = 0;
 		state = 2;
 	};
@@ -718,7 +718,7 @@
 		ignoreCount = 0;
 		lineNumber = 47;
 		location = KiwiComics;
-		modificationTime = 287356856.449977;
+		modificationTime = 289087001.099257;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -736,7 +736,7 @@
 		ignoreCount = 0;
 		lineNumber = 51;
 		location = KiwiComics;
-		modificationTime = 287356856.450487;
+		modificationTime = 289087001.099781;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -754,7 +754,7 @@
 		ignoreCount = 0;
 		lineNumber = 83;
 		location = KiwiComics;
-		modificationTime = 287356856.450994;
+		modificationTime = 289087001.100289;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -772,7 +772,7 @@
 		ignoreCount = 0;
 		lineNumber = 84;
 		location = KiwiComics;
-		modificationTime = 287356856.451543;
+		modificationTime = 289087001.100774;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -790,7 +790,7 @@
 		ignoreCount = 0;
 		lineNumber = 85;
 		location = KiwiComics;
-		modificationTime = 287356856.4520479;
+		modificationTime = 289087001.101266;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -808,7 +808,7 @@
 		ignoreCount = 0;
 		lineNumber = 48;
 		location = KiwiComics;
-		modificationTime = 287356856.45265;
+		modificationTime = 289087001.101796;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -826,7 +826,7 @@
 		ignoreCount = 0;
 		lineNumber = 41;
 		location = KiwiComics;
-		modificationTime = 287356856.444849;
+		modificationTime = 289087001.094315;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -844,7 +844,7 @@
 		ignoreCount = 0;
 		lineNumber = 51;
 		location = KiwiComics;
-		modificationTime = 287356856.445385;
+		modificationTime = 289087001.094802;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -862,7 +862,7 @@
 		ignoreCount = 0;
 		lineNumber = 59;
 		location = KiwiComics;
-		modificationTime = 287356856.445869;
+		modificationTime = 289087001.095313;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -877,7 +877,7 @@
 		hitCount = 0;
 		ignoreCount = 0;
 		location = libobjc.A.dylib;
-		modificationTime = 287356857.005555;
+		modificationTime = 289087001.113713;
 		originalNumberOfMultipleMatches = 1;
 		state = 1;
 		symbolName = objc_exception_throw;
@@ -896,7 +896,7 @@
 		ignoreCount = 0;
 		lineNumber = 52;
 		location = KiwiComics;
-		modificationTime = 287356856.4463969;
+		modificationTime = 289087001.095789;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -914,7 +914,7 @@
 		ignoreCount = 0;
 		lineNumber = 41;
 		location = KiwiComics;
-		modificationTime = 287356856.446897;
+		modificationTime = 289087001.096277;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -932,7 +932,7 @@
 		ignoreCount = 0;
 		lineNumber = 388;
 		location = KiwiComics;
-		modificationTime = 287356856.447394;
+		modificationTime = 289087001.096769;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -950,7 +950,7 @@
 		ignoreCount = 0;
 		lineNumber = 188;
 		location = KiwiComics;
-		modificationTime = 287356856.447885;
+		modificationTime = 289087001.097237;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -968,7 +968,7 @@
 		ignoreCount = 0;
 		lineNumber = 54;
 		location = KiwiComics;
-		modificationTime = 287356856.3909339;
+		modificationTime = 289087001.04375;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -986,7 +986,7 @@
 		ignoreCount = 0;
 		lineNumber = 72;
 		location = KiwiComics;
-		modificationTime = 287356856.391273;
+		modificationTime = 289087001.044171;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -1004,7 +1004,7 @@
 		ignoreCount = 0;
 		lineNumber = 70;
 		location = KiwiComics;
-		modificationTime = 287356856.391602;
+		modificationTime = 289087001.044719;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -1046,7 +1046,7 @@
 		ignoreCount = 0;
 		lineNumber = 73;
 		location = KiwiComics;
-		modificationTime = 287356856.386139;
+		modificationTime = 289087001.033892;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -1064,7 +1064,7 @@
 		ignoreCount = 0;
 		lineNumber = 119;
 		location = KiwiComics;
-		modificationTime = 287356856.386459;
+		modificationTime = 289087001.038122;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -1082,7 +1082,7 @@
 		ignoreCount = 0;
 		lineNumber = 103;
 		location = KiwiComics;
-		modificationTime = 287356856.386777;
+		modificationTime = 289087001.038759;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -1100,7 +1100,7 @@
 		ignoreCount = 0;
 		lineNumber = 103;
 		location = KiwiComics;
-		modificationTime = 287356856.387093;
+		modificationTime = 289087001.039274;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -1118,7 +1118,7 @@
 		ignoreCount = 0;
 		lineNumber = 103;
 		location = KiwiComics;
-		modificationTime = 287356856.387423;
+		modificationTime = 289087001.03972;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -1136,7 +1136,7 @@
 		ignoreCount = 0;
 		lineNumber = 126;
 		location = KiwiComics;
-		modificationTime = 287356856.387772;
+		modificationTime = 289087001.040154;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -1150,13 +1150,13 @@
 	};
 	65630C5C10E6DE1A00E66C76 /* MangaSeriesController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {880, 3081}}";
-			sepNavSelRange = "{6572, 0}";
-			sepNavVisRange = "{5605, 976}";
+			sepNavIntBoundsRect = "{{0, 0}, {1566, 3198}}";
+			sepNavSelRange = "{3830, 0}";
+			sepNavVisRange = "{5264, 323}";
 			sepNavWindowFrame = "{{163, 51}, {967, 638}}";
 		};
 	};
-	65630C7C10E6E84F00E66C76 /* SearchController.m:140 */ = {
+	65630C7C10E6E84F00E66C76 /* SearchController.m:144 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -1168,13 +1168,13 @@
 		functionName = "-tableView:didSelectRowAtIndexPath:";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 140;
+		lineNumber = 144;
 		location = KiwiComics;
-		modificationTime = 287356856.388193;
+		modificationTime = 289087001.040582;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
-	65630C7E10E6E85100E66C76 /* SearchController.m:137 */ = {
+	65630C7E10E6E85100E66C76 /* SearchController.m:141 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -1186,9 +1186,9 @@
 		functionName = "-tableView:didSelectRowAtIndexPath:";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 137;
+		lineNumber = 141;
 		location = KiwiComics;
-		modificationTime = 287356856.388706;
+		modificationTime = 289087001.041119;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -1206,7 +1206,7 @@
 		ignoreCount = 0;
 		lineNumber = 231;
 		location = KiwiComics;
-		modificationTime = 287356856.389249;
+		modificationTime = 289087001.041691;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -1224,7 +1224,7 @@
 		ignoreCount = 0;
 		lineNumber = 216;
 		location = KiwiComics;
-		modificationTime = 287356856.389589;
+		modificationTime = 289087001.042124;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -1235,7 +1235,7 @@
 		argumentStrings = (
 		);
 		autoAttachOnCrash = 1;
-		breakpointsEnabled = 0;
+		breakpointsEnabled = 1;
 		configStateDict = {
 		};
 		customDataFormattersEnabled = 1;
@@ -1402,27 +1402,27 @@
 		ignoreCount = 0;
 		lineNumber = 38;
 		location = KiwiComics;
-		modificationTime = 287356856.380459;
+		modificationTime = 289087001.025955;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
 	6586AF8510E540020088DC65 /* SearchController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1566, 341}}";
-			sepNavSelRange = "{918, 0}";
-			sepNavVisRange = "{0, 1139}";
+			sepNavIntBoundsRect = "{{0, 0}, {1566, 364}}";
+			sepNavSelRange = "{1125, 0}";
+			sepNavVisRange = "{0, 1236}";
 			sepNavWindowFrame = "{{94, 114}, {967, 638}}";
 		};
 	};
 	6586AF8610E540020088DC65 /* SearchController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1048, 2574}}";
-			sepNavSelRange = "{4008, 9}";
-			sepNavVisRange = "{4263, 1305}";
+			sepNavIntBoundsRect = "{{0, 0}, {1048, 2431}}";
+			sepNavSelRange = "{3928, 9}";
+			sepNavVisRange = "{4350, 1318}";
 			sepNavWindowFrame = "{{71, 135}, {967, 638}}";
 		};
 	};
-	6586AFA010E544860088DC65 /* SearchController.m:116 */ = {
+	6586AFA010E544860088DC65 /* SearchController.m:120 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -1434,13 +1434,13 @@
 		functionName = "-tableView:cellForRowAtIndexPath:";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 116;
+		lineNumber = 120;
 		location = KiwiComics;
-		modificationTime = 287356856.381039;
+		modificationTime = 289087001.026699;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
-	6586AFA210E544880088DC65 /* SearchController.m:116 */ = {
+	6586AFA210E544880088DC65 /* SearchController.m:120 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -1452,13 +1452,13 @@
 		functionName = "-tableView:cellForRowAtIndexPath:";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 116;
+		lineNumber = 120;
 		location = KiwiComics;
-		modificationTime = 287356856.38147;
+		modificationTime = 289087001.02729;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
-	6586B03110E5663A0088DC65 /* SearchController.m:110 */ = {
+	6586B03110E5663A0088DC65 /* SearchController.m:114 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -1470,13 +1470,13 @@
 		functionName = "-tableView:cellForRowAtIndexPath:";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 110;
+		lineNumber = 114;
 		location = KiwiComics;
-		modificationTime = 287356856.381841;
+		modificationTime = 289087001.027679;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
-	6586B03310E5663D0088DC65 /* SearchController.m:120 */ = {
+	6586B03310E5663D0088DC65 /* SearchController.m:124 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -1488,13 +1488,85 @@
 		functionName = "-searchDisplayController:shouldReloadTableForSearchString:";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 120;
+		lineNumber = 124;
 		location = KiwiComics;
-		modificationTime = 287356856.382261;
+		modificationTime = 289087001.02812;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
-	6586B03B10E566AC0088DC65 /* SearchController.m:109 */ = {
+	6586B03B10E566AC0088DC65 /* SearchController.m:113 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AF8610E540020088DC65 /* SearchController.m */;
+		functionName = "-tableView:cellForRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 113;
+		location = KiwiComics;
+		modificationTime = 289087001.028606;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	6586B04010E5672B0088DC65 /* SearchController.m:108 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AF8610E540020088DC65 /* SearchController.m */;
+		functionName = "-tableView:cellForRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 108;
+		location = KiwiComics;
+		modificationTime = 289087001.029075;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	6586B04210E5672E0088DC65 /* SearchController.m:111 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AF8610E540020088DC65 /* SearchController.m */;
+		functionName = "-tableView:cellForRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 111;
+		location = KiwiComics;
+		modificationTime = 289087001.029472;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	6586B04410E567310088DC65 /* SearchController.m:116 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AF8610E540020088DC65 /* SearchController.m */;
+		functionName = "-tableView:cellForRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 116;
+		location = KiwiComics;
+		modificationTime = 289087001.029894;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	6586B04D10E5677A0088DC65 /* SearchController.m:109 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -1508,11 +1580,11 @@
 		ignoreCount = 0;
 		lineNumber = 109;
 		location = KiwiComics;
-		modificationTime = 287356856.3826619;
+		modificationTime = 289087001.030327;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
-	6586B04010E5672B0088DC65 /* SearchController.m:104 */ = {
+	6586B04F10E5677C0088DC65 /* SearchController.m:110 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -1524,103 +1596,13 @@
 		functionName = "-tableView:cellForRowAtIndexPath:";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 104;
+		lineNumber = 110;
 		location = KiwiComics;
-		modificationTime = 287356856.3830389;
+		modificationTime = 289087001.030785;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
-	6586B04210E5672E0088DC65 /* SearchController.m:107 */ = {
-		isa = PBXFileBreakpoint;
-		actions = (
-		);
-		breakpointStyle = 0;
-		continueAfterActions = 0;
-		countType = 0;
-		delayBeforeContinue = 0;
-		fileReference = 6586AF8610E540020088DC65 /* SearchController.m */;
-		functionName = "-tableView:cellForRowAtIndexPath:";
-		hitCount = 0;
-		ignoreCount = 0;
-		lineNumber = 107;
-		location = KiwiComics;
-		modificationTime = 287356856.383419;
-		originalNumberOfMultipleMatches = 1;
-		state = 2;
-	};
-	6586B04410E567310088DC65 /* SearchController.m:112 */ = {
-		isa = PBXFileBreakpoint;
-		actions = (
-		);
-		breakpointStyle = 0;
-		continueAfterActions = 0;
-		countType = 0;
-		delayBeforeContinue = 0;
-		fileReference = 6586AF8610E540020088DC65 /* SearchController.m */;
-		functionName = "-tableView:cellForRowAtIndexPath:";
-		hitCount = 0;
-		ignoreCount = 0;
-		lineNumber = 112;
-		location = KiwiComics;
-		modificationTime = 287356856.383844;
-		originalNumberOfMultipleMatches = 1;
-		state = 2;
-	};
-	6586B04D10E5677A0088DC65 /* SearchController.m:105 */ = {
-		isa = PBXFileBreakpoint;
-		actions = (
-		);
-		breakpointStyle = 0;
-		continueAfterActions = 0;
-		countType = 0;
-		delayBeforeContinue = 0;
-		fileReference = 6586AF8610E540020088DC65 /* SearchController.m */;
-		functionName = "-tableView:cellForRowAtIndexPath:";
-		hitCount = 0;
-		ignoreCount = 0;
-		lineNumber = 105;
-		location = KiwiComics;
-		modificationTime = 287356856.384218;
-		originalNumberOfMultipleMatches = 1;
-		state = 2;
-	};
-	6586B04F10E5677C0088DC65 /* SearchController.m:106 */ = {
-		isa = PBXFileBreakpoint;
-		actions = (
-		);
-		breakpointStyle = 0;
-		continueAfterActions = 0;
-		countType = 0;
-		delayBeforeContinue = 0;
-		fileReference = 6586AF8610E540020088DC65 /* SearchController.m */;
-		functionName = "-tableView:cellForRowAtIndexPath:";
-		hitCount = 0;
-		ignoreCount = 0;
-		lineNumber = 106;
-		location = KiwiComics;
-		modificationTime = 287356856.3846329;
-		originalNumberOfMultipleMatches = 1;
-		state = 2;
-	};
-	6586B08810E5729C0088DC65 /* SearchController.m:136 */ = {
-		isa = PBXFileBreakpoint;
-		actions = (
-		);
-		breakpointStyle = 0;
-		continueAfterActions = 0;
-		countType = 0;
-		delayBeforeContinue = 0;
-		fileReference = 6586AF8610E540020088DC65 /* SearchController.m */;
-		functionName = "-tableView:didSelectRowAtIndexPath:";
-		hitCount = 0;
-		ignoreCount = 0;
-		lineNumber = 136;
-		location = KiwiComics;
-		modificationTime = 287356856.3849958;
-		originalNumberOfMultipleMatches = 1;
-		state = 2;
-	};
-	6586B08A10E572A70088DC65 /* SearchController.m:140 */ = {
+	6586B08810E5729C0088DC65 /* SearchController.m:140 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -1634,11 +1616,29 @@
 		ignoreCount = 0;
 		lineNumber = 140;
 		location = KiwiComics;
-		modificationTime = 287356856.385383;
+		modificationTime = 289087001.031262;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
-	6586B09010E572BC0088DC65 /* SearchController.m:117 */ = {
+	6586B08A10E572A70088DC65 /* SearchController.m:144 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6586AF8610E540020088DC65 /* SearchController.m */;
+		functionName = "-tableView:didSelectRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 144;
+		location = KiwiComics;
+		modificationTime = 289087001.031807;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	6586B09010E572BC0088DC65 /* SearchController.m:121 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -1650,13 +1650,13 @@
 		functionName = "-tableView:cellForRowAtIndexPath:";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 117;
+		lineNumber = 121;
 		location = KiwiComics;
-		modificationTime = 287356856.385767;
+		modificationTime = 289087001.032371;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
-	658A4DE11120B07200857457 /* ReadComicController.m:148 */ = {
+	658A4DE11120B07200857457 /* ReadComicController.m:159 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -1668,11 +1668,11 @@
 		functionName = "-viewDidAppear:";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 148;
+		lineNumber = 159;
 		location = KiwiComics;
-		modificationTime = 287356856.790934;
+		modificationTime = 289087001.108715;
 		originalNumberOfMultipleMatches = 1;
-		state = 1;
+		state = 2;
 	};
 	658A4DFB1120B11800857457 /* MangaSeriesController.m:134 */ = {
 		isa = PBXFileBreakpoint;
@@ -1684,15 +1684,15 @@
 		delayBeforeContinue = 0;
 		fileReference = 65630C5C10E6DE1A00E66C76 /* MangaSeriesController.m */;
 		functionName = "-viewWillAppear:";
-		hitCount = 1;
+		hitCount = 0;
 		ignoreCount = 0;
 		lineNumber = 134;
 		location = KiwiComics;
-		modificationTime = 287356869.542651;
+		modificationTime = 289087001.109228;
 		originalNumberOfMultipleMatches = 1;
-		state = 1;
+		state = 2;
 	};
-	658A4E001120B12C00857457 /* ReadComicController.m:166 */ = {
+	658A4E001120B12C00857457 /* ReadComicController.m:177 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -1704,11 +1704,11 @@
 		functionName = "-viewDidAppear:";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 166;
+		lineNumber = 177;
 		location = KiwiComics;
-		modificationTime = 287356856.8705961;
+		modificationTime = 289087001.109773;
 		originalNumberOfMultipleMatches = 1;
-		state = 1;
+		state = 2;
 	};
 	658A4E141120B26500857457 /* MangaSeriesController.m:171 */ = {
 		isa = PBXFileBreakpoint;
@@ -1724,9 +1724,9 @@
 		ignoreCount = 0;
 		lineNumber = 171;
 		location = KiwiComics;
-		modificationTime = 287356856.916023;
+		modificationTime = 289087001.110325;
 		originalNumberOfMultipleMatches = 1;
-		state = 1;
+		state = 2;
 	};
 	658A4E161120B28D00857457 /* MangaSeriesController.m:192 */ = {
 		isa = PBXFileBreakpoint;
@@ -1742,11 +1742,11 @@
 		ignoreCount = 0;
 		lineNumber = 192;
 		location = KiwiComics;
-		modificationTime = 287356856.953145;
+		modificationTime = 289087001.110846;
 		originalNumberOfMultipleMatches = 1;
-		state = 1;
+		state = 2;
 	};
-	658A4E551120B79F00857457 /* ReadComicController.m:170 */ = {
+	658A4E551120B79F00857457 /* ReadComicController.m:181 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -1758,9 +1758,9 @@
 		functionName = "-viewDidDisappear:";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 170;
+		lineNumber = 181;
 		location = KiwiComics;
-		modificationTime = 287356856.462267;
+		modificationTime = 289087001.111378;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -1778,7 +1778,7 @@
 		ignoreCount = 0;
 		lineNumber = 73;
 		location = KiwiComics;
-		modificationTime = 287356856.4247;
+		modificationTime = 289087001.084017;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -1796,7 +1796,7 @@
 		ignoreCount = 0;
 		lineNumber = 85;
 		location = KiwiComics;
-		modificationTime = 287356856.425732;
+		modificationTime = 289087001.084487;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -1814,7 +1814,7 @@
 		ignoreCount = 0;
 		lineNumber = 88;
 		location = KiwiComics;
-		modificationTime = 287356856.426228;
+		modificationTime = 289087001.085034;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -1832,7 +1832,7 @@
 		ignoreCount = 0;
 		lineNumber = 74;
 		location = KiwiComics;
-		modificationTime = 287356856.426751;
+		modificationTime = 289087001.085486;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -1850,7 +1850,7 @@
 		ignoreCount = 0;
 		lineNumber = 139;
 		location = KiwiComics;
-		modificationTime = 287356856.4196531;
+		modificationTime = 289087001.079919;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -1868,11 +1868,11 @@
 		ignoreCount = 0;
 		lineNumber = 144;
 		location = KiwiComics;
-		modificationTime = 287356856.420109;
+		modificationTime = 289087001.080408;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
-	6597B55410ED33A4002B7FEA /* ReadComicController.m:193 */ = {
+	6597B55410ED33A4002B7FEA /* ReadComicController.m:204 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -1884,13 +1884,13 @@
 		functionName = "-loadImage";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 193;
+		lineNumber = 204;
 		location = KiwiComics;
-		modificationTime = 287356856.420567;
+		modificationTime = 289087001.080847;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
-	6597B55610ED33B1002B7FEA /* ReadComicController.m:161 */ = {
+	6597B55610ED33B1002B7FEA /* ReadComicController.m:172 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -1902,13 +1902,13 @@
 		functionName = "-viewDidAppear:";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 161;
+		lineNumber = 172;
 		location = KiwiComics;
-		modificationTime = 287356856.421114;
+		modificationTime = 289087001.081295;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
-	6597B55D10ED33D0002B7FEA /* ReadComicController.m:160 */ = {
+	6597B55D10ED33D0002B7FEA /* ReadComicController.m:171 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -1920,13 +1920,13 @@
 		functionName = "-viewDidAppear:";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 160;
+		lineNumber = 171;
 		location = KiwiComics;
-		modificationTime = 287356856.4218251;
+		modificationTime = 289087001.081745;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
-	6597B55F10ED33D7002B7FEA /* ReadComicController.m:128 */ = {
+	6597B55F10ED33D7002B7FEA /* ReadComicController.m:135 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -1938,9 +1938,9 @@
 		functionName = "-loadChapter";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 128;
+		lineNumber = 135;
 		location = KiwiComics;
-		modificationTime = 287356856.4225389;
+		modificationTime = 289087001.082215;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -1958,7 +1958,7 @@
 		ignoreCount = 0;
 		lineNumber = 49;
 		location = KiwiComics;
-		modificationTime = 287356856.423072;
+		modificationTime = 289087001.082661;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -1976,7 +1976,7 @@
 		ignoreCount = 0;
 		lineNumber = 66;
 		location = KiwiComics;
-		modificationTime = 287356856.423574;
+		modificationTime = 289087001.083099;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -1994,7 +1994,7 @@
 		ignoreCount = 0;
 		lineNumber = 109;
 		location = KiwiComics;
-		modificationTime = 287356856.424203;
+		modificationTime = 289087001.083562;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -2012,7 +2012,7 @@
 		ignoreCount = 0;
 		lineNumber = 49;
 		location = KiwiComics;
-		modificationTime = 287356856.448384;
+		modificationTime = 289087001.097779;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -2031,7 +2031,7 @@
 			sepNavWindowFrame = "{{71, 0}, {967, 778}}";
 		};
 	};
-	65B4D8AA10EA12E7003AD0C5 /* ReadComicController.m:188 */ = {
+	65B4D8AA10EA12E7003AD0C5 /* ReadComicController.m:199 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -2043,13 +2043,13 @@
 		functionName = "-viewDidLoad";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 188;
+		lineNumber = 199;
 		location = KiwiComics;
-		modificationTime = 287356856.391938;
+		modificationTime = 289087001.045184;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
-	65B4D8AC10EA12E9003AD0C5 /* ReadComicController.m:244 */ = {
+	65B4D8AC10EA12E9003AD0C5 /* ReadComicController.m:255 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -2061,9 +2061,9 @@
 		functionName = "-loadImage";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 244;
+		lineNumber = 255;
 		location = KiwiComics;
-		modificationTime = 287356856.3923839;
+		modificationTime = 289087001.045646;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -2081,7 +2081,7 @@
 		ignoreCount = 0;
 		lineNumber = 46;
 		location = KiwiComics;
-		modificationTime = 287356856.392834;
+		modificationTime = 289087001.04628;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -2099,7 +2099,7 @@
 		ignoreCount = 0;
 		lineNumber = 47;
 		location = KiwiComics;
-		modificationTime = 287356856.393172;
+		modificationTime = 289087001.046778;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -2117,7 +2117,7 @@
 		ignoreCount = 0;
 		lineNumber = 29;
 		location = KiwiComics;
-		modificationTime = 287356856.3935121;
+		modificationTime = 289087001.047257;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -2135,7 +2135,7 @@
 		ignoreCount = 0;
 		lineNumber = 32;
 		location = KiwiComics;
-		modificationTime = 287356856.3938481;
+		modificationTime = 289087001.047738;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -2153,7 +2153,7 @@
 		ignoreCount = 0;
 		lineNumber = 33;
 		location = KiwiComics;
-		modificationTime = 287356856.394189;
+		modificationTime = 289087001.053382;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -2171,7 +2171,7 @@
 		ignoreCount = 0;
 		lineNumber = 53;
 		location = KiwiComics;
-		modificationTime = 287356856.394531;
+		modificationTime = 289087001.053887;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -2189,7 +2189,7 @@
 		ignoreCount = 0;
 		lineNumber = 49;
 		location = KiwiComics;
-		modificationTime = 287356856.394872;
+		modificationTime = 289087001.054375;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -2207,7 +2207,7 @@
 		ignoreCount = 0;
 		lineNumber = 28;
 		location = KiwiComics;
-		modificationTime = 287356856.3952111;
+		modificationTime = 289087001.05548;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -2225,11 +2225,11 @@
 		ignoreCount = 0;
 		lineNumber = 29;
 		location = KiwiComics;
-		modificationTime = 287356856.395594;
+		modificationTime = 289087001.056046;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
-	65B4D93510EA19A0003AD0C5 /* ReadComicController.m:167 */ = {
+	65B4D93510EA19A0003AD0C5 /* ReadComicController.m:178 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -2241,9 +2241,9 @@
 		functionName = "-viewDidAppear:";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 167;
+		lineNumber = 178;
 		location = KiwiComics;
-		modificationTime = 287356856.395946;
+		modificationTime = 289087001.058056;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -2261,7 +2261,7 @@
 		ignoreCount = 0;
 		lineNumber = 37;
 		location = KiwiComics;
-		modificationTime = 287356856.396383;
+		modificationTime = 289087001.058441;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -2279,7 +2279,7 @@
 		ignoreCount = 0;
 		lineNumber = 36;
 		location = KiwiComics;
-		modificationTime = 287356856.396736;
+		modificationTime = 289087001.058772;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -2297,7 +2297,7 @@
 		ignoreCount = 0;
 		lineNumber = 58;
 		location = KiwiComics;
-		modificationTime = 287356856.397128;
+		modificationTime = 289087001.059106;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -2315,7 +2315,7 @@
 		ignoreCount = 0;
 		lineNumber = 44;
 		location = KiwiComics;
-		modificationTime = 287356856.397487;
+		modificationTime = 289087001.059455;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -2333,11 +2333,11 @@
 		ignoreCount = 0;
 		lineNumber = 114;
 		location = KiwiComics;
-		modificationTime = 287356856.397845;
+		modificationTime = 289087001.059791;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
-	65B4D9DB10EA2723003AD0C5 /* ReadComicController.m:245 */ = {
+	65B4D9DB10EA2723003AD0C5 /* ReadComicController.m:256 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -2349,13 +2349,13 @@
 		functionName = "-loadImage";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 245;
+		lineNumber = 256;
 		location = KiwiComics;
-		modificationTime = 287356856.3982021;
+		modificationTime = 289087001.060131;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
-	65B4DA3310EA327F003AD0C5 /* ReadComicController.m:254 */ = {
+	65B4DA3310EA327F003AD0C5 /* ReadComicController.m:265 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -2367,13 +2367,13 @@
 		functionName = "-didRotateFromInterfaceOrientation:";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 254;
+		lineNumber = 265;
 		location = KiwiComics;
-		modificationTime = 287356856.3986419;
+		modificationTime = 289087001.060473;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
-	65B4DA6B10EA3A30003AD0C5 /* ReadComicController.m:254 */ = {
+	65B4DA6B10EA3A30003AD0C5 /* ReadComicController.m:265 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -2385,13 +2385,13 @@
 		functionName = "-didRotateFromInterfaceOrientation:";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 254;
+		lineNumber = 265;
 		location = KiwiComics;
-		modificationTime = 287356856.399068;
+		modificationTime = 289087001.060812;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
-	65B4DBA310EA6A6E003AD0C5 /* ReadComicController.m:244 */ = {
+	65B4DBA310EA6A6E003AD0C5 /* ReadComicController.m:255 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -2403,13 +2403,13 @@
 		functionName = "-loadImage";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 244;
+		lineNumber = 255;
 		location = KiwiComics;
-		modificationTime = 287356856.399499;
+		modificationTime = 289087001.061217;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
-	65B4DBA510EA6A6E003AD0C5 /* ReadComicController.m:244 */ = {
+	65B4DBA510EA6A6E003AD0C5 /* ReadComicController.m:255 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -2421,13 +2421,13 @@
 		functionName = "-loadImage";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 244;
+		lineNumber = 255;
 		location = KiwiComics;
-		modificationTime = 287356856.399935;
+		modificationTime = 289087001.061556;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
-	65B4DC1C10EA7960003AD0C5 /* ReadComicController.m:104 */ = {
+	65B4DC1C10EA7960003AD0C5 /* ReadComicController.m:106 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -2439,9 +2439,9 @@
 		functionName = "-touchesBegan:withEvent:";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 104;
+		lineNumber = 106;
 		location = KiwiComics;
-		modificationTime = 287356856.4004149;
+		modificationTime = 289087001.061899;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -2459,11 +2459,11 @@
 		ignoreCount = 0;
 		lineNumber = 187;
 		location = KiwiComics;
-		modificationTime = 287356856.400856;
+		modificationTime = 289087001.062244;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
-	65B4DD1410EA9F4F003AD0C5 /* ReadComicController.m:145 */ = {
+	65B4DD1410EA9F4F003AD0C5 /* ReadComicController.m:156 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -2475,9 +2475,9 @@
 		functionName = "-viewDidLoad";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 145;
+		lineNumber = 156;
 		location = KiwiComics;
-		modificationTime = 287356856.401232;
+		modificationTime = 289087001.062592;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -2485,7 +2485,7 @@
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1566, 897}}";
 			sepNavSelRange = "{2029, 0}";
-			sepNavVisRange = "{1629, 701}";
+			sepNavVisRange = "{1561, 769}";
 		};
 	};
 	65B4DD9510EAB92D003AD0C5 /* ComicChapter.m */ = {
@@ -2506,9 +2506,9 @@
 	};
 	65B4DDA310EABA89003AD0C5 /* ComicPage.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1566, 1716}}";
-			sepNavSelRange = "{531, 0}";
-			sepNavVisRange = "{416, 360}";
+			sepNavIntBoundsRect = "{{0, 0}, {1566, 1638}}";
+			sepNavSelRange = "{1938, 0}";
+			sepNavVisRange = "{1859, 404}";
 			sepNavWindowFrame = "{{73, 135}, {967, 638}}";
 		};
 	};
@@ -2521,12 +2521,162 @@
 	};
 	65B4DDA510EABA89003AD0C5 /* ComicSeries.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {880, 5317}}";
-			sepNavSelRange = "{10619, 0}";
-			sepNavVisRange = "{10096, 817}";
+			sepNavIntBoundsRect = "{{0, 0}, {1566, 5382}}";
+			sepNavSelRange = "{11409, 39}";
+			sepNavVisRange = "{11065, 599}";
 		};
 	};
-	65C1ED2011022AC400A4B9F8 /* ReadComicController.m:145 */ = {
+	65BBCA32113B0EFE007FA307 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 15";
+		rLen = 0;
+		rLoc = 466;
+		rType = 0;
+		vrLen = 466;
+		vrLoc = 0;
+	};
+	65BBCA3F113B1174007FA307 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65B4DD9410EAB92D003AD0C5 /* ComicChapter.h */;
+		name = "ComicChapter.h: 55";
+		rLen = 0;
+		rLoc = 2029;
+		rType = 0;
+		vrLen = 769;
+		vrLoc = 1561;
+	};
+	65BBCA40113B1174007FA307 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65C44A2C111E1C740016C15C /* NameLinkID.h */;
+		name = "NameLinkID.h: 10";
+		rLen = 0;
+		rLoc = 402;
+		rType = 0;
+		vrLen = 781;
+		vrLoc = 0;
+	};
+	65BBCA41113B1174007FA307 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65D79FC410EB6DB700F8D973 /* ComicListItem.h */;
+		name = "ComicListItem.h: 5";
+		rLen = 0;
+		rLoc = 249;
+		rType = 0;
+		vrLen = 826;
+		vrLoc = 0;
+	};
+	65BBCA42113B1174007FA307 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65D79FC510EB6DB700F8D973 /* ComicListItem.m */;
+		name = "ComicListItem.m: 65";
+		rLen = 0;
+		rLoc = 1763;
+		rType = 0;
+		vrLen = 997;
+		vrLoc = 1440;
+	};
+	65BBCA44113B1174007FA307 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65110DBF1107340F004248DD /* SettingsController.h */;
+		name = "SettingsController.h: 23";
+		rLen = 0;
+		rLoc = 861;
+		rType = 0;
+		vrLen = 862;
+		vrLoc = 0;
+	};
+	65BBCA46113B1174007FA307 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65630C5C10E6DE1A00E66C76 /* MangaSeriesController.m */;
+		name = "MangaSeriesController.m: 31";
+		rLen = 1;
+		rLoc = 997;
+		rType = 0;
+		vrLen = 813;
+		vrLoc = 960;
+	};
+	65BBCA4F113B1521007FA307 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6586AF8510E540020088DC65 /* SearchController.h */;
+		name = "SearchController.h: 24";
+		rLen = 0;
+		rLoc = 1125;
+		rType = 0;
+		vrLen = 1236;
+		vrLoc = 0;
+	};
+	65BBCA50113B1521007FA307 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6586AF8610E540020088DC65 /* SearchController.m */;
+		name = "SearchController.m: 18";
+		rLen = 0;
+		rLoc = 546;
+		rType = 0;
+		vrLen = 723;
+		vrLoc = 0;
+	};
+	65BBCA8C113B1A15007FA307 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65B4DDA510EABA89003AD0C5 /* ComicSeries.m */;
+		name = "ComicSeries.m: 379";
+		rLen = 39;
+		rLoc = 11409;
+		rType = 0;
+		vrLen = 599;
+		vrLoc = 11065;
+	};
+	65BBCAC6113B1E05007FA307 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 650CAC4510E807A600978114 /* ReadComicController.m */;
+		name = "ReadComicController.m: 159";
+		rLen = 0;
+		rLoc = 4424;
+		rType = 0;
+		vrLen = 890;
+		vrLoc = 4156;
+	};
+	65BBCAC7113B1E05007FA307 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 650158C310E7929F009036E8 /* Utils.m */;
+		name = "Utils.m: 50";
+		rLen = 0;
+		rLoc = 1527;
+		rType = 0;
+		vrLen = 979;
+		vrLoc = 1132;
+	};
+	65BBCAC8113B1E05007FA307 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 650CAC4410E807A600978114 /* ReadComicController.h */;
+		name = "ReadComicController.h: 40";
+		rLen = 0;
+		rLoc = 1197;
+		rType = 0;
+		vrLen = 634;
+		vrLoc = 675;
+	};
+	65BBCAD2113B223F007FA307 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 650CAC4410E807A600978114 /* ReadComicController.h */;
+		name = "ReadComicController.h: 40";
+		rLen = 0;
+		rLoc = 1197;
+		rType = 0;
+		vrLen = 634;
+		vrLoc = 675;
+	};
+	65BBCAD3113B223F007FA307 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6586AF8610E540020088DC65 /* SearchController.m */;
+		name = "SearchController.m: 146";
+		rLen = 9;
+		rLoc = 3928;
+		rType = 0;
+		vrLen = 1318;
+		vrLoc = 4350;
+	};
+	65C1ED2011022AC400A4B9F8 /* ReadComicController.m:156 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -2538,13 +2688,13 @@
 		functionName = "-toggleZoomWithPoint:";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 145;
+		lineNumber = 156;
 		location = KiwiComics;
-		modificationTime = 287356856.428748;
+		modificationTime = 289087001.087389;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
-	65C1ED2411022ADA00A4B9F8 /* ReadComicController.m:145 */ = {
+	65C1ED2411022ADA00A4B9F8 /* ReadComicController.m:156 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -2556,15 +2706,15 @@
 		functionName = "-toggleZoomWithPoint:";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 145;
+		lineNumber = 156;
 		location = KiwiComics;
-		modificationTime = 287356856.429323;
+		modificationTime = 289087001.087861;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
 	65C44A2C111E1C740016C15C /* NameLinkID.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1566, 341}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1566, 357}}";
 			sepNavSelRange = "{402, 0}";
 			sepNavVisRange = "{0, 781}";
 		};
@@ -2590,7 +2740,7 @@
 		ignoreCount = 0;
 		lineNumber = 31;
 		location = KiwiComics;
-		modificationTime = 287356856.45315;
+		modificationTime = 289087001.10229;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -2608,7 +2758,7 @@
 		ignoreCount = 0;
 		lineNumber = 39;
 		location = KiwiComics;
-		modificationTime = 287356856.453656;
+		modificationTime = 289087001.1028;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -2626,7 +2776,7 @@
 		ignoreCount = 0;
 		lineNumber = 40;
 		location = KiwiComics;
-		modificationTime = 287356856.4541739;
+		modificationTime = 289087001.103435;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -2644,7 +2794,7 @@
 		ignoreCount = 0;
 		lineNumber = 36;
 		location = KiwiComics;
-		modificationTime = 287356856.454685;
+		modificationTime = 289087001.103959;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -2671,7 +2821,7 @@
 		hitCount = 0;
 		ignoreCount = 0;
 		lineNumber = 109;
-		modificationTime = 287356856.417873;
+		modificationTime = 289087001.078133;
 		originalNumberOfMultipleMatches = 0;
 		state = 2;
 	};
@@ -2689,7 +2839,7 @@
 		ignoreCount = 0;
 		lineNumber = 42;
 		location = KiwiComics;
-		modificationTime = 287356856.4183089;
+		modificationTime = 289087001.078593;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -2706,7 +2856,7 @@
 		hitCount = 0;
 		ignoreCount = 0;
 		lineNumber = 236;
-		modificationTime = 287356856.418759;
+		modificationTime = 289087001.079017;
 		originalNumberOfMultipleMatches = 0;
 		state = 2;
 	};
@@ -2723,22 +2873,22 @@
 		hitCount = 0;
 		ignoreCount = 0;
 		lineNumber = 241;
-		modificationTime = 287356856.419217;
+		modificationTime = 289087001.079471;
 		originalNumberOfMultipleMatches = 0;
 		state = 2;
 	};
 	65D79FC410EB6DB700F8D973 /* ComicListItem.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1566, 351}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1566, 357}}";
 			sepNavSelRange = "{249, 0}";
 			sepNavVisRange = "{0, 826}";
 		};
 	};
 	65D79FC510EB6DB700F8D973 /* ComicListItem.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {915, 1183}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1566, 1170}}";
 			sepNavSelRange = "{1763, 0}";
-			sepNavVisRange = "{1485, 952}";
+			sepNavVisRange = "{1440, 997}";
 			sepNavWindowFrame = "{{93, 114}, {967, 638}}";
 		};
 	};
@@ -2756,7 +2906,7 @@
 		ignoreCount = 0;
 		lineNumber = 39;
 		location = KiwiComics;
-		modificationTime = 287356856.401683;
+		modificationTime = 289087001.062944;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -2774,7 +2924,7 @@
 		ignoreCount = 0;
 		lineNumber = 32;
 		location = KiwiComics;
-		modificationTime = 287356856.4021081;
+		modificationTime = 289087001.063302;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -2792,7 +2942,7 @@
 		ignoreCount = 0;
 		lineNumber = 86;
 		location = KiwiComics;
-		modificationTime = 287356856.402476;
+		modificationTime = 289087001.063655;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -2810,7 +2960,7 @@
 		ignoreCount = 0;
 		lineNumber = 40;
 		location = KiwiComics;
-		modificationTime = 287356856.40285;
+		modificationTime = 289087001.064009;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -2827,7 +2977,7 @@
 		hitCount = 0;
 		ignoreCount = 0;
 		lineNumber = 41;
-		modificationTime = 287356856.403229;
+		modificationTime = 289087001.064361;
 		originalNumberOfMultipleMatches = 0;
 		state = 2;
 	};
@@ -2845,7 +2995,7 @@
 		ignoreCount = 0;
 		lineNumber = 42;
 		location = KiwiComics;
-		modificationTime = 287356856.403615;
+		modificationTime = 289087001.064718;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -2863,7 +3013,7 @@
 		ignoreCount = 0;
 		lineNumber = 43;
 		location = KiwiComics;
-		modificationTime = 287356856.404018;
+		modificationTime = 289087001.065076;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -2881,7 +3031,7 @@
 		ignoreCount = 0;
 		lineNumber = 50;
 		location = KiwiComics;
-		modificationTime = 287356856.40441;
+		modificationTime = 289087001.065498;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -2899,7 +3049,7 @@
 		ignoreCount = 0;
 		lineNumber = 30;
 		location = KiwiComics;
-		modificationTime = 287356856.404874;
+		modificationTime = 289087001.065874;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -2917,7 +3067,7 @@
 		ignoreCount = 0;
 		lineNumber = 27;
 		location = KiwiComics;
-		modificationTime = 287356856.405284;
+		modificationTime = 289087001.066236;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -2935,7 +3085,7 @@
 		ignoreCount = 0;
 		lineNumber = 45;
 		location = KiwiComics;
-		modificationTime = 287356856.405705;
+		modificationTime = 289087001.066596;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -2953,7 +3103,7 @@
 		ignoreCount = 0;
 		lineNumber = 105;
 		location = KiwiComics;
-		modificationTime = 287356856.4061061;
+		modificationTime = 289087001.066961;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -2971,7 +3121,7 @@
 		ignoreCount = 0;
 		lineNumber = 49;
 		location = KiwiComics;
-		modificationTime = 287356856.4064959;
+		modificationTime = 289087001.067337;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -2989,11 +3139,11 @@
 		ignoreCount = 0;
 		lineNumber = 49;
 		location = KiwiComics;
-		modificationTime = 287356856.406925;
+		modificationTime = 289087001.06771;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
-	65D7A32110EBC92C00F8D973 /* ReadComicController.m:157 */ = {
+	65D7A32110EBC92C00F8D973 /* ReadComicController.m:168 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -3005,13 +3155,13 @@
 		functionName = "-viewDidAppear:";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 157;
+		lineNumber = 168;
 		location = KiwiComics;
-		modificationTime = 287356856.40732;
+		modificationTime = 289087001.068091;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
-	65D7A32310EBC93300F8D973 /* ReadComicController.m:191 */ = {
+	65D7A32310EBC93300F8D973 /* ReadComicController.m:202 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -3023,13 +3173,13 @@
 		functionName = "-loadImage";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 191;
+		lineNumber = 202;
 		location = KiwiComics;
-		modificationTime = 287356856.407812;
+		modificationTime = 289087001.068508;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
-	65D7A33210EBC99400F8D973 /* ReadComicController.m:279 */ = {
+	65D7A33210EBC99400F8D973 /* ReadComicController.m:290 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -3041,9 +3191,9 @@
 		functionName = "-prefetchImage";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 279;
+		lineNumber = 290;
 		location = KiwiComics;
-		modificationTime = 287356856.40828;
+		modificationTime = 289087001.068904;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -3061,11 +3211,11 @@
 		ignoreCount = 0;
 		lineNumber = 145;
 		location = KiwiComics;
-		modificationTime = 287356856.408842;
+		modificationTime = 289087001.069285;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
-	65D7A3D210EBD00E00F8D973 /* ReadComicController.m:275 */ = {
+	65D7A3D210EBD00E00F8D973 /* ReadComicController.m:286 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -3077,9 +3227,9 @@
 		functionName = "-prefetchImage";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 275;
+		lineNumber = 286;
 		location = KiwiComics;
-		modificationTime = 287356856.40927;
+		modificationTime = 289087001.06966;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -3097,7 +3247,7 @@
 		ignoreCount = 0;
 		lineNumber = 91;
 		location = KiwiComics;
-		modificationTime = 287356856.409745;
+		modificationTime = 289087001.07008;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -3115,7 +3265,7 @@
 		ignoreCount = 0;
 		lineNumber = 52;
 		location = KiwiComics;
-		modificationTime = 287356856.410154;
+		modificationTime = 289087001.07056;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -3133,7 +3283,7 @@
 		ignoreCount = 0;
 		lineNumber = 15;
 		location = KiwiComics;
-		modificationTime = 287356856.410562;
+		modificationTime = 289087001.070958;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -3151,7 +3301,7 @@
 		ignoreCount = 0;
 		lineNumber = 60;
 		location = KiwiComics;
-		modificationTime = 287356856.410962;
+		modificationTime = 289087001.071341;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -3169,7 +3319,7 @@
 		ignoreCount = 0;
 		lineNumber = 91;
 		location = KiwiComics;
-		modificationTime = 287356856.411358;
+		modificationTime = 289087001.071763;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -3186,9 +3336,9 @@
 		ignoreCount = 0;
 		lineNumber = 91;
 		location = KiwiComics;
-		modificationTime = 287356897.66167;
+		modificationTime = 289087001.072161;
 		originalNumberOfMultipleMatches = 1;
-		state = 1;
+		state = 0;
 	};
 	65D7A51510EBE6A700F8D973 /* ComicListItem.m:91 */ = {
 		isa = PBXFileBreakpoint;
@@ -3204,7 +3354,7 @@
 		ignoreCount = 0;
 		lineNumber = 91;
 		location = KiwiComics;
-		modificationTime = 287356856.412239;
+		modificationTime = 289087001.072552;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -3221,7 +3371,7 @@
 		hitCount = 0;
 		ignoreCount = 0;
 		lineNumber = 147;
-		modificationTime = 287356856.41264;
+		modificationTime = 289087001.072962;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -3238,7 +3388,7 @@
 		hitCount = 0;
 		ignoreCount = 0;
 		lineNumber = 122;
-		modificationTime = 287356856.413069;
+		modificationTime = 289087001.073382;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -3256,7 +3406,7 @@
 		ignoreCount = 0;
 		lineNumber = 20;
 		location = KiwiComics;
-		modificationTime = 287356856.413487;
+		modificationTime = 289087001.073777;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -3274,7 +3424,7 @@
 		ignoreCount = 0;
 		lineNumber = 20;
 		location = KiwiComics;
-		modificationTime = 287356856.413927;
+		modificationTime = 289087001.074168;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -3292,7 +3442,7 @@
 		ignoreCount = 0;
 		lineNumber = 20;
 		location = KiwiComics;
-		modificationTime = 287356856.414363;
+		modificationTime = 289087001.074591;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -3310,7 +3460,7 @@
 		ignoreCount = 0;
 		lineNumber = 20;
 		location = KiwiComics;
-		modificationTime = 287356856.414787;
+		modificationTime = 289087001.075036;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -3328,7 +3478,7 @@
 		ignoreCount = 0;
 		lineNumber = 20;
 		location = KiwiComics;
-		modificationTime = 287356856.415226;
+		modificationTime = 289087001.075458;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -3346,7 +3496,7 @@
 		ignoreCount = 0;
 		lineNumber = 20;
 		location = KiwiComics;
-		modificationTime = 287356856.415643;
+		modificationTime = 289087001.075922;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -3364,7 +3514,7 @@
 		ignoreCount = 0;
 		lineNumber = 151;
 		location = KiwiComics;
-		modificationTime = 287356856.416097;
+		modificationTime = 289087001.076372;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -3382,7 +3532,7 @@
 		ignoreCount = 0;
 		lineNumber = 148;
 		location = KiwiComics;
-		modificationTime = 287356856.416522;
+		modificationTime = 289087001.076817;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -3400,7 +3550,7 @@
 		ignoreCount = 0;
 		lineNumber = 143;
 		location = KiwiComics;
-		modificationTime = 287356856.416945;
+		modificationTime = 289087001.077258;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -3418,7 +3568,7 @@
 		ignoreCount = 0;
 		lineNumber = 167;
 		location = KiwiComics;
-		modificationTime = 287356856.417406;
+		modificationTime = 289087001.077702;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -3436,7 +3586,7 @@
 		ignoreCount = 0;
 		lineNumber = 379;
 		location = KiwiComics;
-		modificationTime = 287356856.455194;
+		modificationTime = 289087001.10445;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -3454,7 +3604,7 @@
 		ignoreCount = 0;
 		lineNumber = 382;
 		location = KiwiComics;
-		modificationTime = 287356856.4557;
+		modificationTime = 289087001.10498;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -3472,11 +3622,11 @@
 		ignoreCount = 0;
 		lineNumber = 386;
 		location = KiwiComics;
-		modificationTime = 287356856.456211;
+		modificationTime = 289087001.105516;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
-	65E4114C111F642500ABFDFD /* SearchController.m:78 */ = {
+	65E4114C111F642500ABFDFD /* SearchController.m:82 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -3488,9 +3638,9 @@
 		functionName = "-tableView:numberOfRowsInSection:";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 78;
+		lineNumber = 82;
 		location = KiwiComics;
-		modificationTime = 287356856.456726;
+		modificationTime = 289087001.106025;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -3508,7 +3658,7 @@
 		ignoreCount = 0;
 		lineNumber = 81;
 		location = KiwiComics;
-		modificationTime = 287356856.4573261;
+		modificationTime = 289087001.106637;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -3526,7 +3676,7 @@
 		ignoreCount = 0;
 		lineNumber = 80;
 		location = KiwiComics;
-		modificationTime = 287356856.457894;
+		modificationTime = 289087001.107154;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -3544,7 +3694,7 @@
 		ignoreCount = 0;
 		lineNumber = 70;
 		location = KiwiComics;
-		modificationTime = 287356856.458409;
+		modificationTime = 289087001.107671;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -3562,7 +3712,7 @@
 		ignoreCount = 0;
 		lineNumber = 69;
 		location = KiwiComics;
-		modificationTime = 287356856.4589249;
+		modificationTime = 289087001.108191;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -3594,7 +3744,7 @@
 		ignoreCount = 0;
 		lineNumber = 23;
 		location = KiwiComics;
-		modificationTime = 287356856.43989;
+		modificationTime = 289087001.091183;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -3612,7 +3762,7 @@
 		rLen = 0;
 		rLoc = 9223372036854775808;
 	};
-	65E80C0B110777B800C39A24 /* SearchController.m:67 */ = {
+	65E80C0B110777B800C39A24 /* SearchController.m:71 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -3624,13 +3774,13 @@
 		functionName = "-refreshMangas";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 67;
+		lineNumber = 71;
 		location = KiwiComics;
-		modificationTime = 287356856.442158;
+		modificationTime = 289087001.091693;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
-	65E80C13110777C300C39A24 /* SearchController.m:67 */ = {
+	65E80C13110777C300C39A24 /* SearchController.m:71 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -3642,9 +3792,9 @@
 		functionName = "-reloadMangas";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 67;
+		lineNumber = 71;
 		location = KiwiComics;
-		modificationTime = 287356856.442813;
+		modificationTime = 289087001.092284;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -3662,182 +3812,14 @@
 		ignoreCount = 0;
 		lineNumber = 37;
 		location = KiwiComics;
-		modificationTime = 287356856.443364;
+		modificationTime = 289087001.092854;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
-	};
-	65EE48C411276D1100582E2E /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 6586AF8610E540020088DC65 /* SearchController.m */;
-		name = "SearchController.m: 208";
-		rLen = 9;
-		rLoc = 4008;
-		rType = 0;
-		vrLen = 1595;
-		vrLoc = 4319;
 	};
 	65EEEE27113AAA8800A17DF7 /* XDModelBookmark */ = {
 		isa = XDModelBookmark;
 		fRef = 6501597610E7ADA1009036E8 /* KiwiComics.xcdatamodel */;
 		fallbackIsa = PBXBookmark;
-		uiCtxt = {
-			UIContextForDetailArea = {
-				_indexOfSelectedPane = 0;
-				_indexOfSelectedView = 1;
-			};
-			UIContextForEntityArea = {
-				_indexOfSelectedView = 0;
-				chosenTableColumnns = (
-					"ET Entity",
-					"ET Abstract",
-					"ET Class",
-				);
-				chosenTableColumnns_sortDirections = (
-					YES,
-				);
-				chosenTableColumnns_sortKeys = (
-					name,
-				);
-				chosenTableColumnns_sortSelectors = (
-					"_xdcaseInsensitiveNumericCompare:",
-				);
-				chosenTableWidths = (
-					103.000000,
-					49.000000,
-					92.080078,
-				);
-			};
-			UIContextForLayoutManager = {
-				detailSplitGeometry = {
-					_collapsingFrameDimension = 0;
-					_indexOfCollapsedView = 0;
-					_percentageOfCollapsedView = 0;
-					isCollapsed = yes;
-					sizes = (
-						"{{0, 0}, {612, 218}}",
-						"{{617, 0}, {322, 218}}",
-					);
-				};
-				diagramSplitGeometry = {
-					_collapsingFrameDimension = 0;
-					_indexOfCollapsedView = 0;
-					_percentageOfCollapsedView = 0;
-					isCollapsed = yes;
-					sizes = (
-						"{{0, 0}, {939, 220}}",
-						"{{0, 225}, {939, 156}}",
-					);
-				};
-				tableSplitGeometry = {
-					_collapsingFrameDimension = 0;
-					_indexOfCollapsedView = 0;
-					_percentageOfCollapsedView = 0;
-					isCollapsed = yes;
-					sizes = (
-						"{{0, 0}, {269, 218}}",
-						"{{274, 0}, {336, 218}}",
-					);
-				};
-			};
-			UIContextForPropertyArea = {
-				_indexOfSelectedView = 0;
-				chosenTableColumnnFRTs = (
-					"FT Fetch Request",
-					"FT Predicate",
-				);
-				chosenTableColumnnFRTs_sortDirections = (
-					YES,
-				);
-				chosenTableColumnnFRTs_sortKeys = (
-					name,
-				);
-				chosenTableColumnnFRTs_sortSelectors = (
-					"_xdcaseInsensitiveNumericCompare:",
-				);
-				chosenTableColumnnsAT = (
-					"AT Attribute",
-					"AT Type",
-				);
-				chosenTableColumnnsAT_sortDirections = (
-					YES,
-				);
-				chosenTableColumnnsAT_sortKeys = (
-					name,
-				);
-				chosenTableColumnnsAT_sortSelectors = (
-					"_xdcaseInsensitiveNumericCompare:",
-				);
-				chosenTableColumnnsFPT = (
-					"FP FetchedProperty",
-					"FP Destination",
-					"FP Predicate",
-				);
-				chosenTableColumnnsFPT_sortDirections = (
-					YES,
-				);
-				chosenTableColumnnsFPT_sortKeys = (
-					name,
-				);
-				chosenTableColumnnsFPT_sortSelectors = (
-					"_xdcaseInsensitiveNumericCompare:",
-				);
-				chosenTableColumnnsPT = (
-					"PT Property",
-					"PT Kind",
-					"PT SharedKeyOne",
-				);
-				chosenTableColumnnsPT_sortDirections = (
-					YES,
-				);
-				chosenTableColumnnsPT_sortKeys = (
-					name,
-				);
-				chosenTableColumnnsPT_sortSelectors = (
-					"_xdcaseInsensitiveNumericCompare:",
-				);
-				chosenTableColumnnsRT = (
-					"RT Relationship",
-					"RT Destination",
-				);
-				chosenTableColumnnsRT_sortDirections = (
-					YES,
-				);
-				chosenTableColumnnsRT_sortKeys = (
-					name,
-				);
-				chosenTableColumnnsRT_sortSelectors = (
-					"_xdcaseInsensitiveNumericCompare:",
-				);
-				chosenTableWidthsAT = (
-					128.000000,
-					64.000000,
-				);
-				chosenTableWidthsFPT = (
-					128.000000,
-					64.000000,
-					144.764160,
-				);
-				chosenTableWidthsFRT = (
-					128.000000,
-					249.764160,
-				);
-				chosenTableWidthsPT = (
-					128.000000,
-					108.110840,
-					96.570801,
-				);
-				chosenTableWidthsRT = (
-					128.000000,
-					286.000000,
-				);
-			};
-			"xdesign model browser state key - shown/hidden" = 1;
-			"xdesign model diagram view visible rect key" = "{{-113, 0}, {924, 141}}";
-			"xdesign model selected entities key" = (
-			);
-			"xdesign model selected properties key" = (
-			);
-		};
 	};
 	65EEEE28113AAA8800A17DF7 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -3915,16 +3897,6 @@
 		isa = PBXBookmark;
 		fRef = 654CFB8C10F3887800D902ED /* icon.png */;
 	};
-	65EEEE5C113AB06300A17DF7 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 65110DBF1107340F004248DD /* SettingsController.h */;
-		name = "SettingsController.h: 23";
-		rLen = 0;
-		rLoc = 861;
-		rType = 0;
-		vrLen = 862;
-		vrLoc = 0;
-	};
 	65EEEE5D113AB06300A17DF7 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 65110DC01107340F004248DD /* SettingsController.m */;
@@ -3955,26 +3927,6 @@
 		vrLen = 945;
 		vrLoc = 0;
 	};
-	65EEEE60113AB06300A17DF7 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 650158C310E7929F009036E8 /* Utils.m */;
-		name = "Utils.m: 26";
-		rLen = 0;
-		rLoc = 705;
-		rType = 0;
-		vrLen = 776;
-		vrLoc = 0;
-	};
-	65EEEE61113AB06300A17DF7 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 65C44A2C111E1C740016C15C /* NameLinkID.h */;
-		name = "NameLinkID.h: 10";
-		rLen = 0;
-		rLoc = 402;
-		rType = 0;
-		vrLen = 781;
-		vrLoc = 0;
-	};
 	65EEEE62113AB06300A17DF7 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 65C44A2D111E1C740016C15C /* NameLinkID.m */;
@@ -3984,26 +3936,6 @@
 		rType = 0;
 		vrLen = 364;
 		vrLoc = 0;
-	};
-	65EEEE63113AB06300A17DF7 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 65D79FC410EB6DB700F8D973 /* ComicListItem.h */;
-		name = "ComicListItem.h: 5";
-		rLen = 0;
-		rLoc = 249;
-		rType = 0;
-		vrLen = 826;
-		vrLoc = 0;
-	};
-	65EEEE64113AB06300A17DF7 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 65D79FC510EB6DB700F8D973 /* ComicListItem.m */;
-		name = "ComicListItem.m: 65";
-		rLen = 0;
-		rLoc = 1763;
-		rType = 0;
-		vrLen = 952;
-		vrLoc = 1485;
 	};
 	65EEEE65113AB06300A17DF7 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -4035,16 +3967,6 @@
 		vrLen = 1426;
 		vrLoc = 0;
 	};
-	65EEEE68113AB06300A17DF7 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 65B4DDA510EABA89003AD0C5 /* ComicSeries.m */;
-		name = "ComicSeries.m: 347";
-		rLen = 0;
-		rLoc = 10619;
-		rType = 0;
-		vrLen = 817;
-		vrLoc = 10096;
-	};
 	65EEEE69113AB06300A17DF7 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 659CF4221111AF5100624591 /* ComicImage.h */;
@@ -4064,16 +3986,6 @@
 		rType = 0;
 		vrLen = 433;
 		vrLoc = 0;
-	};
-	65EEEE6B113AB06300A17DF7 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 65B4DD9410EAB92D003AD0C5 /* ComicChapter.h */;
-		name = "ComicChapter.h: 55";
-		rLen = 0;
-		rLoc = 2029;
-		rType = 0;
-		vrLen = 701;
-		vrLoc = 1629;
 	};
 	65EEEE6C113AB06300A17DF7 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -4125,26 +4037,6 @@
 		vrLen = 1133;
 		vrLoc = 252;
 	};
-	65EEEE71113AB06300A17DF7 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 6586AF8510E540020088DC65 /* SearchController.h */;
-		name = "SearchController.h: 22";
-		rLen = 0;
-		rLoc = 918;
-		rType = 0;
-		vrLen = 1139;
-		vrLoc = 0;
-	};
-	65EEEE72113AB06300A17DF7 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 6586AF8610E540020088DC65 /* SearchController.m */;
-		name = "SearchController.m: 60";
-		rLen = 0;
-		rLoc = 1635;
-		rType = 0;
-		vrLen = 823;
-		vrLoc = 895;
-	};
 	65EEEE73113AB06300A17DF7 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 65630C5B10E6DE1A00E66C76 /* MangaSeriesController.h */;
@@ -4154,36 +4046,6 @@
 		rType = 0;
 		vrLen = 950;
 		vrLoc = 739;
-	};
-	65EEEE74113AB06300A17DF7 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 65630C5C10E6DE1A00E66C76 /* MangaSeriesController.m */;
-		name = "MangaSeriesController.m: 231";
-		rLen = 0;
-		rLoc = 6572;
-		rType = 0;
-		vrLen = 976;
-		vrLoc = 5605;
-	};
-	65EEEE75113AB06300A17DF7 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 650CAC4410E807A600978114 /* ReadComicController.h */;
-		name = "ReadComicController.h: 37";
-		rLen = 0;
-		rLoc = 1101;
-		rType = 0;
-		vrLen = 645;
-		vrLoc = 538;
-	};
-	65EEEE76113AB06300A17DF7 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 650CAC4510E807A600978114 /* ReadComicController.m */;
-		name = "ReadComicController.m: 291";
-		rLen = 0;
-		rLoc = 8529;
-		rType = 0;
-		vrLen = 838;
-		vrLoc = 7846;
 	};
 	65EEEE77113AB06300A17DF7 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -4205,32 +4067,12 @@
 		vrLen = 934;
 		vrLoc = 0;
 	};
-	65EEEE79113AB06300A17DF7 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
-		name = "main.m: 10";
-		rLen = 0;
-		rLoc = 366;
-		rType = 0;
-		vrLen = 466;
-		vrLoc = 0;
-	};
-	65EEEE7C113AB88600A17DF7 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
-		name = "main.m: 15";
-		rLen = 0;
-		rLoc = 466;
-		rType = 0;
-		vrLen = 466;
-		vrLoc = 0;
-	};
 	65EEEE7D113AB88600A17DF7 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 6586AF8610E540020088DC65 /* SearchController.m */;
 		name = "SearchController.m: 142";
 		rLen = 9;
-		rLoc = 4008;
+		rLoc = 3928;
 		rType = 0;
 		vrLen = 1305;
 		vrLoc = 4263;
@@ -4249,7 +4091,7 @@
 		ignoreCount = 0;
 		lineNumber = 42;
 		location = KiwiComics;
-		modificationTime = 287356856.427741;
+		modificationTime = 289087001.086441;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -4267,11 +4109,11 @@
 		ignoreCount = 0;
 		lineNumber = 41;
 		location = KiwiComics;
-		modificationTime = 287356856.4282149;
+		modificationTime = 289087001.086914;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
-	65F8CB6E111462A7003F4F70 /* ReadComicController.m:236 */ = {
+	65F8CB6E111462A7003F4F70 /* ReadComicController.m:247 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -4283,12 +4125,12 @@
 		functionName = "-loadImage";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 236;
-		modificationTime = 287356856.448881;
+		lineNumber = 247;
+		modificationTime = 289087001.098251;
 		originalNumberOfMultipleMatches = 0;
 		state = 2;
 	};
-	65FD28271104A58E00970DB2 /* ReadComicController.m:229 */ = {
+	65FD28271104A58E00970DB2 /* ReadComicController.m:240 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -4300,13 +4142,13 @@
 		functionName = "-loadImage";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 229;
+		lineNumber = 240;
 		location = KiwiComics;
-		modificationTime = 287356856.429943;
+		modificationTime = 289087001.088346;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
-	65FD28291104A58F00970DB2 /* ReadComicController.m:228 */ = {
+	65FD28291104A58F00970DB2 /* ReadComicController.m:239 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -4318,12 +4160,12 @@
 		functionName = "-loadImage";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 228;
-		modificationTime = 287356856.430864;
+		lineNumber = 239;
+		modificationTime = 289087001.08882;
 		originalNumberOfMultipleMatches = 0;
 		state = 2;
 	};
-	65FD28D21104C08B00970DB2 /* ReadComicController.m:216 */ = {
+	65FD28D21104C08B00970DB2 /* ReadComicController.m:227 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -4335,13 +4177,13 @@
 		functionName = "-loadImage";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 216;
+		lineNumber = 227;
 		location = KiwiComics;
-		modificationTime = 287356856.431537;
+		modificationTime = 289087001.089297;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
-	65FD28F51104C56E00970DB2 /* ReadComicController.m:134 */ = {
+	65FD28F51104C56E00970DB2 /* ReadComicController.m:143 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -4353,9 +4195,9 @@
 		functionName = "-loadChapter";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 134;
+		lineNumber = 143;
 		location = KiwiComics;
-		modificationTime = 287356856.438007;
+		modificationTime = 289087001.089757;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -4373,7 +4215,7 @@
 		ignoreCount = 0;
 		lineNumber = 182;
 		location = KiwiComics;
-		modificationTime = 287356856.438726;
+		modificationTime = 289087001.090221;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};
@@ -4391,7 +4233,7 @@
 		ignoreCount = 0;
 		lineNumber = 103;
 		location = KiwiComics;
-		modificationTime = 287356856.439346;
+		modificationTime = 289087001.090717;
 		originalNumberOfMultipleMatches = 1;
 		state = 2;
 	};

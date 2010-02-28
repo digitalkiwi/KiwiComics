@@ -131,7 +131,7 @@
 
 - (void) viewWillAppear:(BOOL)animated {
 	[super viewWillAppear:animated];
-	if (comicSeriesID == nil)
+	if ([self comicSeriesID] == nil)
 		[self goBack:self];
 	
 	ComicSeries *comicSeries = (ComicSeries *) [[Utils databaseContext] objectWithID:comicSeriesID];
