@@ -1,5 +1,7 @@
 #!/bin/sh
 if [[ $1 == remove ]]; then
-	rm -f /var/mobile/Documents/appname.sqlite
+	rm -f /var/mobile/Documents/AppName.sqlite
 	rm -f /var/mobile/Documents/KiwiComics.sqlite
 fi
+
+exit 0

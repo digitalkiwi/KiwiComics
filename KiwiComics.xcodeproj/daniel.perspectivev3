@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>ActivePerspectiveName</key>
-	<string>Debug</string>
+	<string>Project</string>
 	<key>AllowedModules</key>
 	<array>
 		<dict>
@@ -216,10 +216,10 @@
 						<key>_historyCapacity</key>
 						<integer>0</integer>
 						<key>bookmark</key>
-						<string>65BBCAD3113B223F007FA307</string>
+						<string>6543F533113D23A700D3D892</string>
 						<key>history</key>
 						<array>
-							<string>65EEEE7D113AB88600A17DF7</string>
+							<string>65BBCAD3113B223F007FA307</string>
 						</array>
 					</dict>
 					<key>SplitCount</key>
@@ -272,6 +272,8 @@
 			<key>Layout</key>
 			<array>
 				<dict>
+					<key>BecomeActive</key>
+					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -322,13 +324,14 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>51</integer>
-									<integer>45</integer>
+									<integer>18</integer>
+									<integer>14</integer>
+									<integer>1</integer>
 									<integer>0</integer>
 								</array>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateVisibleRectKey</key>
-							<string>{{0, 509}, {255, 664}}</string>
+							<string>{{0, 0}, {255, 664}}</string>
 						</dict>
 						<key>PBXTopSmartGroupGIDs</key>
 						<array/>
@@ -344,6 +347,8 @@
 							<string>MainColumn</string>
 							<real>255</real>
 						</array>
+						<key>RubberWindowFrame</key>
+						<string>62 55 1218 723 0 0 1280 778 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -359,7 +364,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>6586AEE310E510C00088DC65</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>ReadComicController.h</string>
+								<string>ComicListItem.m</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -367,11 +372,11 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>6586AEE410E510C00088DC65</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>ReadComicController.h</string>
+										<string>ComicListItem.m</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>65BBCAD2113B223F007FA307</string>
+										<string>6543F532113D23A700D3D892</string>
 										<key>history</key>
 										<array>
 											<string>655ECDC610FCAE75005D7488</string>
@@ -379,21 +384,15 @@
 											<string>651E94111105C86200AD8046</string>
 											<string>65E80B7C110747DD00C39A24</string>
 											<string>65C44B9F111E361F0016C15C</string>
-											<string>65EEEE27113AAA8800A17DF7</string>
 											<string>65EEEE28113AAA8800A17DF7</string>
-											<string>65EEEE2C113AAA8800A17DF7</string>
 											<string>65EEEE3B113AAA8800A17DF7</string>
 											<string>65EEEE3C113AAA8800A17DF7</string>
 											<string>65EEEE3D113AAA8800A17DF7</string>
-											<string>65EEEE3E113AAA8800A17DF7</string>
 											<string>65EEEE58113AB06300A17DF7</string>
 											<string>65EEEE59113AB06300A17DF7</string>
 											<string>65EEEE5A113AB06300A17DF7</string>
-											<string>65EEEE5B113AB06300A17DF7</string>
 											<string>65EEEE5D113AB06300A17DF7</string>
 											<string>65EEEE5E113AB06300A17DF7</string>
-											<string>65EEEE5F113AB06300A17DF7</string>
-											<string>65EEEE62113AB06300A17DF7</string>
 											<string>65EEEE65113AB06300A17DF7</string>
 											<string>65EEEE66113AB06300A17DF7</string>
 											<string>65EEEE67113AB06300A17DF7</string>
@@ -408,18 +407,24 @@
 											<string>65EEEE77113AB06300A17DF7</string>
 											<string>65EEEE78113AB06300A17DF7</string>
 											<string>65BBCA32113B0EFE007FA307</string>
-											<string>65BBCA3F113B1174007FA307</string>
 											<string>65BBCA40113B1174007FA307</string>
-											<string>65BBCA41113B1174007FA307</string>
-											<string>65BBCA42113B1174007FA307</string>
 											<string>65BBCA44113B1174007FA307</string>
-											<string>65BBCA46113B1174007FA307</string>
-											<string>65BBCA4F113B1521007FA307</string>
 											<string>65BBCA50113B1521007FA307</string>
 											<string>65BBCA8C113B1A15007FA307</string>
-											<string>65BBCAC6113B1E05007FA307</string>
-											<string>65BBCAC7113B1E05007FA307</string>
-											<string>65BBCAC8113B1E05007FA307</string>
+											<string>6543F524113D23A700D3D892</string>
+											<string>6543F525113D23A700D3D892</string>
+											<string>6543F526113D23A700D3D892</string>
+											<string>6543F527113D23A700D3D892</string>
+											<string>6543F528113D23A700D3D892</string>
+											<string>6543F529113D23A700D3D892</string>
+											<string>6543F52A113D23A700D3D892</string>
+											<string>6543F52B113D23A700D3D892</string>
+											<string>6543F52C113D23A700D3D892</string>
+											<string>6543F52D113D23A700D3D892</string>
+											<string>6543F52E113D23A700D3D892</string>
+											<string>6543F52F113D23A700D3D892</string>
+											<string>6543F530113D23A700D3D892</string>
+											<string>6543F531113D23A700D3D892</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -433,16 +438,18 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {941, 389}}</string>
+								<string>{{0, 0}, {941, 380}}</string>
+								<key>RubberWindowFrame</key>
+								<string>62 55 1218 723 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>389pt</string>
+							<string>380pt</string>
 						</dict>
 						<dict>
 							<key>Proportion</key>
-							<string>288pt</string>
+							<string>297pt</string>
 							<key>Tabs</key>
 							<array>
 								<dict>
@@ -456,7 +463,9 @@
 									<key>GeometryConfiguration</key>
 									<dict>
 										<key>Frame</key>
-										<string>{{10, 27}, {941, 261}}</string>
+										<string>{{10, 27}, {941, 270}}</string>
+										<key>RubberWindowFrame</key>
+										<string>62 55 1218 723 0 0 1280 778 </string>
 									</dict>
 									<key>Module</key>
 									<string>XCDetailModule</string>
@@ -538,11 +547,11 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>65BBCA28113B0EBE007FA307</string>
+				<string>6543F515113D235E00D3D892</string>
 				<string>1CA23ED40692098700951B8B</string>
-				<string>65BBCA29113B0EBE007FA307</string>
+				<string>6543F516113D235E00D3D892</string>
 				<string>6586AEE310E510C00088DC65</string>
-				<string>65BBCA2A113B0EBE007FA307</string>
+				<string>6543F517113D235E00D3D892</string>
 				<string>1CA23EDF0692099D00951B8B</string>
 				<string>1CA23EE00692099D00951B8B</string>
 				<string>1CA23EE10692099D00951B8B</string>
@@ -593,14 +602,12 @@
 					<key>GeometryConfiguration</key>
 					<dict>
 						<key>Frame</key>
-						<string>{{0, 0}, {1218, 176}}</string>
-						<key>RubberWindowFrame</key>
-						<string>62 55 1218 723 0 0 1280 778 </string>
+						<string>{{0, 0}, {1218, 160}}</string>
 					</dict>
 					<key>Module</key>
 					<string>PBXDebugCLIModule</string>
 					<key>Proportion</key>
-					<string>176pt</string>
+					<string>160pt</string>
 				</dict>
 				<dict>
 					<key>ContentConfiguration</key>
@@ -619,8 +626,8 @@
 								<string>yes</string>
 								<key>sizes</key>
 								<array>
-									<string>{{0, 0}, {546, 244}}</string>
-									<string>{{546, 0}, {672, 244}}</string>
+									<string>{{0, 0}, {546, 253}}</string>
+									<string>{{546, 0}, {672, 253}}</string>
 								</array>
 							</dict>
 							<key>VerticalSplitView</key>
@@ -635,8 +642,8 @@
 								<string>yes</string>
 								<key>sizes</key>
 								<array>
-									<string>{{0, 0}, {1218, 244}}</string>
-									<string>{{0, 244}, {1218, 257}}</string>
+									<string>{{0, 0}, {1218, 253}}</string>
+									<string>{{0, 253}, {1218, 264}}</string>
 								</array>
 							</dict>
 						</dict>
@@ -656,7 +663,7 @@
 						<key>DebugSTDIOWindowFrame</key>
 						<string>{{200, 200}, {500, 300}}</string>
 						<key>Frame</key>
-						<string>{{0, 181}, {1218, 501}}</string>
+						<string>{{0, 165}, {1218, 517}}</string>
 						<key>PBXDebugSessionStackFrameViewKey</key>
 						<dict>
 							<key>DebugVariablesTableConfiguration</key>
@@ -669,17 +676,13 @@
 								<real>316</real>
 							</array>
 							<key>Frame</key>
-							<string>{{546, 0}, {672, 244}}</string>
-							<key>RubberWindowFrame</key>
-							<string>62 55 1218 723 0 0 1280 778 </string>
+							<string>{{546, 0}, {672, 253}}</string>
 						</dict>
-						<key>RubberWindowFrame</key>
-						<string>62 55 1218 723 0 0 1280 778 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXDebugSessionModule</string>
 					<key>Proportion</key>
-					<string>501pt</string>
+					<string>517pt</string>
 				</dict>
 			</array>
 			<key>Name</key>
@@ -697,14 +700,14 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>65BBCA35113B0EFE007FA307</string>
+				<string>6543F518113D235E00D3D892</string>
 				<string>1CCC7628064C1048000F2A68</string>
 				<string>1CCC7629064C1048000F2A68</string>
-				<string>65BBCA36113B0EFE007FA307</string>
-				<string>65BBCA37113B0EFE007FA307</string>
-				<string>65BBCA38113B0EFE007FA307</string>
-				<string>65BBCA39113B0EFE007FA307</string>
-				<string>65BBCA3A113B0EFE007FA307</string>
+				<string>6543F519113D235E00D3D892</string>
+				<string>6543F51A113D235E00D3D892</string>
+				<string>6543F51B113D235E00D3D892</string>
+				<string>6543F51C113D235E00D3D892</string>
+				<string>6586AEE310E510C00088DC65</string>
 			</array>
 			<key>ToolbarConfigUserDefaultsMinorVersion</key>
 			<string>2</string>
@@ -738,8 +741,6 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>65BBCA63113B16BF007FA307</string>
-		<string>65BBCA65113B16BF007FA307</string>
 		<string>65C44A80111E22BD0016C15C</string>
 		<string>/Users/daniel/Programming/KiwiComics/KiwiComics.xcodeproj</string>
 	</array>
