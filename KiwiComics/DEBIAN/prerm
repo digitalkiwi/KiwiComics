@@ -2,6 +2,8 @@
 if [[ $1 == remove ]]; then
 	rm -f /var/mobile/Documents/AppName.sqlite
 	rm -f /var/mobile/Documents/KiwiComics.sqlite
+	rm -f /var/mobile/Documents/myAppName.sqlite
+	rm -f /var/mobile/Documents/kiwicomics.sqlite
 fi
 
 exit 0

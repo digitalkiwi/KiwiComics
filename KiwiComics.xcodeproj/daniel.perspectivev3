@@ -216,10 +216,10 @@
 						<key>_historyCapacity</key>
 						<integer>0</integer>
 						<key>bookmark</key>
-						<string>6543F533113D23A700D3D892</string>
+						<string>65EF676F113D34DC006F0256</string>
 						<key>history</key>
 						<array>
-							<string>65BBCAD3113B223F007FA307</string>
+							<string>6543F535113D27BF00D3D892</string>
 						</array>
 					</dict>
 					<key>SplitCount</key>
@@ -324,14 +324,13 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>18</integer>
-									<integer>14</integer>
+									<integer>41</integer>
 									<integer>1</integer>
 									<integer>0</integer>
 								</array>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateVisibleRectKey</key>
-							<string>{{0, 0}, {255, 664}}</string>
+							<string>{{0, 461}, {255, 664}}</string>
 						</dict>
 						<key>PBXTopSmartGroupGIDs</key>
 						<array/>
@@ -364,7 +363,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>6586AEE310E510C00088DC65</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>ComicListItem.m</string>
+								<string>KiwiComicsAppDelegate.m</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -372,11 +371,11 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>6586AEE410E510C00088DC65</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>ComicListItem.m</string>
+										<string>KiwiComicsAppDelegate.m</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>6543F532113D23A700D3D892</string>
+										<string>65EF676B113D34DC006F0256</string>
 										<key>history</key>
 										<array>
 											<string>655ECDC610FCAE75005D7488</string>
@@ -404,8 +403,6 @@
 											<string>65EEEE6F113AB06300A17DF7</string>
 											<string>65EEEE70113AB06300A17DF7</string>
 											<string>65EEEE73113AB06300A17DF7</string>
-											<string>65EEEE77113AB06300A17DF7</string>
-											<string>65EEEE78113AB06300A17DF7</string>
 											<string>65BBCA32113B0EFE007FA307</string>
 											<string>65BBCA40113B1174007FA307</string>
 											<string>65BBCA44113B1174007FA307</string>
@@ -424,7 +421,9 @@
 											<string>6543F52E113D23A700D3D892</string>
 											<string>6543F52F113D23A700D3D892</string>
 											<string>6543F530113D23A700D3D892</string>
-											<string>6543F531113D23A700D3D892</string>
+											<string>65EF6769113D34DC006F0256</string>
+											<string>65EF676A113D34DC006F0256</string>
+											<string>65EEEE78113AB06300A17DF7</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -438,18 +437,18 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {941, 380}}</string>
+								<string>{{0, 0}, {941, 371}}</string>
 								<key>RubberWindowFrame</key>
 								<string>62 55 1218 723 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>380pt</string>
+							<string>371pt</string>
 						</dict>
 						<dict>
 							<key>Proportion</key>
-							<string>297pt</string>
+							<string>306pt</string>
 							<key>Tabs</key>
 							<array>
 								<dict>
@@ -463,7 +462,7 @@
 									<key>GeometryConfiguration</key>
 									<dict>
 										<key>Frame</key>
-										<string>{{10, 27}, {941, 270}}</string>
+										<string>{{10, 27}, {941, 279}}</string>
 										<key>RubberWindowFrame</key>
 										<string>62 55 1218 723 0 0 1280 778 </string>
 									</dict>
@@ -547,11 +546,11 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>6543F515113D235E00D3D892</string>
+				<string>65EF676C113D34DC006F0256</string>
 				<string>1CA23ED40692098700951B8B</string>
-				<string>6543F516113D235E00D3D892</string>
+				<string>65EF676D113D34DC006F0256</string>
 				<string>6586AEE310E510C00088DC65</string>
-				<string>6543F517113D235E00D3D892</string>
+				<string>65EF676E113D34DC006F0256</string>
 				<string>1CA23EDF0692099D00951B8B</string>
 				<string>1CA23EE00692099D00951B8B</string>
 				<string>1CA23EE10692099D00951B8B</string>
